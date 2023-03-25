@@ -11,10 +11,12 @@
   - [CTO & Tech Leads](#cto)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
+## Web3 Developers
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Developer Advocates/Advocadoes 🥑
-
-About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
