@@ -33,3 +33,5 @@
 ## More than 50% Women Devs on a Team (Company List)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Note: if you're new to Github or contributing, and would like to nominate a dev, please ping @thehapadev on twitter or email info@riessdesigns.com
