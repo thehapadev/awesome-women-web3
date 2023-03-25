@@ -8,6 +8,7 @@
   - [Web3 Developers](#web3-developers)
   - [Developer Advocates/Advocadoes 🥑](#developer-advocatesadvocadoes-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
+  - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
