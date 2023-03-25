@@ -13,6 +13,9 @@
 
 ## Web3 Developers
 
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## Developer Advocates/Advocadoes 🥑
 
 - [List item](http://example.com)
