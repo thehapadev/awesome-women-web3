@@ -1,6 +1,3 @@
-# awesome-women-web3
-A curated list of women in web3 developers, developer relations, and CTOs to inspire the next generation of incoming devs. 
-
 # awesome-women-web3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of our favorite devs, founders, creatives, and contributors to the web3 ecosystem. 
