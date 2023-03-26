@@ -1,6 +1,6 @@
 # awesome-women-web3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of our favorite devs, founders, creatives, and contributors to the web3 ecosystem. 
+> A curated list of our favorite devs, founders, creatives, and contributors in the web3 ecosystem. 
 
 
 ## Categories
