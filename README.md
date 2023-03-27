@@ -23,6 +23,7 @@
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
+- [Vanes Mercado, WalletConnect](https://twitter.com/_finessevanes)
 
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
