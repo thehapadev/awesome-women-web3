@@ -10,9 +10,11 @@ For first-time PR, please add your name or pseudonym to comment and only add lin
 
 -Submitting a [first name] and [contact], [category], [company].
 
--Try to keep entry alphabetized to help with easier reading.
+-Try to keep entry alphabetized for easier reading.
 
-Thank you for all suggestions, and feel free to nominate a dev or tech lead that inspires you! 
+Thank you for all suggestions!
+
+Goal: Submit a PR and nominate a dev or tech lead that inspires you! 
 
 
 ## Updating your PR
