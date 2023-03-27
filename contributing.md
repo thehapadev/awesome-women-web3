@@ -14,7 +14,7 @@ For first-time PR, please add your name or pseudonym to comment and only add lin
 
 Thank you for all suggestions!
 
-Goal: Submit a PR and nominate a dev or tech lead that inspires you in #web3.
+Goal: Submit a PR and nominate a dev or tech lead that inspires you in [web3](README.md).
 
 
 ## Updating your PR
