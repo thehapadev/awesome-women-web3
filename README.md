@@ -14,7 +14,7 @@
 
 ## Web3 Developers
 
-- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz)
+- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [List item](http://example.com)
 
 ## Developer Advocates 🥑
