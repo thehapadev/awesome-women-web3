@@ -26,7 +26,7 @@
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
-- [List item](http://example.com)
+- [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 - [List item](http://example.com)
 
 ## Community Leaders
