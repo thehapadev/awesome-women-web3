@@ -15,7 +15,7 @@
 ## Web3 Developers
 
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
-- [List item](http://example.com)
+- [Meowy, Consensys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 
 ## Developer Advocates 🥑
 
