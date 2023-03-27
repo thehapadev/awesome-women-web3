@@ -6,7 +6,7 @@
 ## Categories
 
   - [Web3 Developers](#web3-developers)
-  - [Developer Advocates 🥑](#developer-advocates)
+  - [Developer Advocates 🥑](#developer-advocates-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
@@ -21,6 +21,7 @@
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
+- [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
 
 
