@@ -19,8 +19,8 @@
 
 ## Developer Advocates/Advocadoes 🥑
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
+- [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
 
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
@@ -30,10 +30,10 @@
 
 ## Community Leaders
 
-- [List item](http://example.com)
+- [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
 - [List item](http://example.com)
 
-## CTO
+## CTO & Tech Leads
 
 - [List item](http://example.com)
 - [List item](http://example.com)
