@@ -20,7 +20,7 @@
 ## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
-- [Biana Buzea, Balancer](https://twitter.com/abruzuc)|[Dev Rel Uni](https://www.devreluni.com/)
+- [Biana Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
 
 
