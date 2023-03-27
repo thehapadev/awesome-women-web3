@@ -12,7 +12,9 @@ For first-time PR, please add your name or pseudonym to comment and only add lin
 
 -Try to keep entry alphabetized to help with easier reading.
 
-Thank you for your suggestions!
+-Feel free to pass this repo on to a dev that inspires you. 
+
+Thank you for all suggestions, and feel free to nominate a dev or tech lead! 
 
 
 ## Updating your PR
