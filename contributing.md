@@ -10,6 +10,8 @@ For first-time PR, please add your name or pseudonym to comment and only add lin
 
 -Submitting a [first name] and [contact], [category], [company].
 
+-Try to keep entry alphabetized to help with easier reading.
+
 Thank you for your suggestions!
 
 
