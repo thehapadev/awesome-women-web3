@@ -36,7 +36,7 @@
 
 ## CTO & Tech Leads
 
-- [List item](http://example.com)
+- [Juliette, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [List item](http://example.com)
 
 
