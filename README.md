@@ -21,6 +21,7 @@
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
+- [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
 
 
