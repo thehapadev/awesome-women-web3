@@ -14,7 +14,7 @@
 
 ## Web3 Developers
 
-- [List item](http://example.com)
+- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti] (https://buildpr3tti.xyz/)
 - [List item](http://example.com)
 
 ## Developer Advocates 🥑
@@ -36,7 +36,7 @@
 
 ## CTO & Tech Leads
 
-- [Juliette, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
+- [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [List item](http://example.com)
 
 
