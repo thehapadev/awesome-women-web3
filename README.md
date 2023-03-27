@@ -6,7 +6,7 @@
 ## Categories
 
   - [Web3 Developers](#web3-developers)
-  - [Developer Advocates/Advocadoes 🥑](#developer-advocatesadvocadoes-)
+  - [Developer Advocates 🥑](#developer-advocates)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
@@ -17,7 +17,7 @@
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-## Developer Advocates/Advocadoes 🥑
+## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
