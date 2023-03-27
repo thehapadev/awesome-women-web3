@@ -6,7 +6,7 @@
 ## Categories
 
   - [Web3 Developers](#web3-developers)
-  - [Developer Advocates 🥑](#developer-advocates)
+  - [Developer Advocates 🥑](#developer-advocates-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
