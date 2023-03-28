@@ -25,6 +25,7 @@
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
+- [Jennifer Tran](https://twitter.com/JKim_Tran) | [Website](https://github.com/jennifertrin)
 
 ## Developer Advocates 🥑
 
