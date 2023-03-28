@@ -41,7 +41,7 @@
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
-- [List item](http://example.com)
+- [Evin McMullen](https://twitter.com/provenauthority)| [Disco](https://app.disco.xyz/)
 
 ## Community Leaders
 
