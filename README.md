@@ -18,6 +18,7 @@
 
 ### Front-End
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
+- [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 ### Back-End
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 ### Full-Stack
