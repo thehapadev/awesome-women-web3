@@ -45,7 +45,7 @@
 ## Community Leaders
 
 - [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
-- [List item](http://example.com)
+- [Angela Steffens, Unlock Protocol](https://twitter.com/wonderwomancode)
 
 ## CTO & Tech Leads
 
