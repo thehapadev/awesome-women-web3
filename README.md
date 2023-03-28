@@ -11,6 +11,7 @@
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
   - [Data Wizards 🪄](#data-wizards)
+  - [Legal](#legal)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
 
@@ -26,6 +27,12 @@
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
+### Protocol Engineers
+- [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
+- [List item](http://example.com)
+### Smart Contracts
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Developer Advocates 🥑
 
@@ -56,6 +63,11 @@
 ## Data Wizards 🪄
 
 - [List item](http://example.com)
+- [List item](http://example.com)
+
+## Legal 
+
+- [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
 - [List item](http://example.com)
 
 ## More than 50% Women Devs on a Team (Company List)
