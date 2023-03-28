@@ -48,6 +48,11 @@
 
 ## Data Wizards 🪄
 
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## More than 50% Women Devs on a Team (Company List)
+
+- [List item](http://example.com)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
