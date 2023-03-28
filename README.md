@@ -22,6 +22,7 @@
 ### Back-End
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 ### Full-Stack
+- [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 
@@ -29,8 +30,10 @@
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
+- [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
+- [Samina Codes, Thirdweb](https://twitter.com/saminacodes)
 - [Vanes Mercado, WalletConnect](https://twitter.com/_finessevanes)
 
 
