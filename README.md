@@ -11,6 +11,8 @@
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
+  - [Data Wizards 🪄](#data-wizards)
+
 
 ## Web3 Developers
 
