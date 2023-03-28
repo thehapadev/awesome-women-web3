@@ -47,8 +47,8 @@
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
-- [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
-- [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
+- [Sneha Mishra](https://twitter.com/sneha_bb), [Social3](https://social3.club/)
+- [Evin McMullen](https://twitter.com/provenauthority), [Disco](https://app.disco.xyz/)
 
 ## Community Leaders
 
@@ -67,7 +67,7 @@
 
 ## Legal 
 
-- [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
+- [Maria](https://twitter.com/MariaCyberlaw), [PeaceKeepers](https://twitter.com/Peacekeepers_io)
 - [List item](http://example.com)
 
 ## More than 50% Women Devs on a Team (Company List)
