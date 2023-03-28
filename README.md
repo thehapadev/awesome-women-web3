@@ -23,9 +23,9 @@
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 ### Full-Stack
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+- [Jennifer Tran](https://twitter.com/JKim_Tran) | [Website](https://github.com/jennifertrin)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
-- [Jennifer Tran](https://twitter.com/JKim_Tran) | [Website](https://github.com/jennifertrin)
 
 ## Developer Advocates 🥑
 
@@ -60,6 +60,6 @@
 
 ## More than 50% Women Devs on a Team (Company List)
 
-- [Ensō](https://www.ensocollective.xyz/); phygital fashion
+- [Ensō](https://www.ensocollective.xyz/) 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
