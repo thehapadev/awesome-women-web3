@@ -55,6 +55,6 @@
 
 ## More than 50% Women Devs on a Team (Company List)
 
-- [List item](http://example.com)
+- [Ensō](https://www.ensocollective.xyz/); phygital fashion
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
