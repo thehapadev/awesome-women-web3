@@ -46,6 +46,7 @@
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [List item](http://example.com)
 
+## Data Wizards 🪄
 
 ## More than 50% Women Devs on a Team (Company List)
 
