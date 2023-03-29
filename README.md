@@ -76,6 +76,16 @@
 
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 
+## UX Engineers
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## Game Devs 🎮
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## More than 50% Women Devs on a Team (Company List)
 
 - [Ensō](https://www.ensocollective.xyz/) 
