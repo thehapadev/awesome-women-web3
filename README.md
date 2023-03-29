@@ -45,8 +45,8 @@
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
-- [Kelly Kim, Pinata ](https://twitter.com/kellykim_xyz)
-- [Krystal Lee, Hedera] (https://twitter.com/theekrystallee) 
+- [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
+- [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
 - [Vanes Mercado, WalletConnect](https://twitter.com/_finessevanes)
 
