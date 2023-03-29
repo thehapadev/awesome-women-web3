@@ -11,7 +11,7 @@
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto--tech-leads)
   - [Data Wizards 🪄](#data-wizards-)
-  - [Legal 🕊️](#legal-)
+  - [Legal 🕊️](#legal-%EF%B8%8F)
   - [DeFi](#defi)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
