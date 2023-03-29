@@ -12,6 +12,7 @@
   - [CTO & Tech Leads](#cto)
   - [Data Wizards 🪄](#data-wizards)
   - [Legal 🕊️](#legal)
+  - [DeFi](#defi)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
 
@@ -54,6 +55,7 @@
 
 - [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
 - [Angela Steffens, Unlock Protocol](https://twitter.com/wonderwomancode)
+- [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | (PowHER)[https://www.powher.io/]
 
 ## CTO & Tech Leads
 
@@ -69,6 +71,10 @@
 
 - [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
 - [List item](http://example.com)
+
+## DeFi
+
+- [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 
 ## More than 50% Women Devs on a Team (Company List)
 
