@@ -64,7 +64,7 @@
 
 ## Data Wizards 🪄
 
-- [List item](http://example.com)
+- [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
 - [List item](http://example.com)
 
 ## Legal 🕊️
