@@ -22,6 +22,7 @@
 
 ### Front-End
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
+- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
@@ -58,7 +59,7 @@
 ## Community Leaders
 
 - [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
-- [Vaida Saul](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
+- [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 
 ## CTO & Tech Leads
 
