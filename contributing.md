@@ -11,7 +11,8 @@ For first-time PR, please add your name or pseudonym to comment and only add lin
 -Submitting a [first name] and [contact], [category], [company].
 
 -Use "," after name if you want to include employer and "|" if you are owner of the company, or run a women-led organization.
-(i.e Jane Doe, Starknet | Women in ZK) 
+
+-Example: Jane Doe, Starknet | Women in ZK 
 
 -Try to keep entry alphabetized for easier reading.
 
