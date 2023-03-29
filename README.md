@@ -24,6 +24,7 @@
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 ### Back-End
+- [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 ### Full-Stack
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
@@ -34,6 +35,7 @@
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [List item](http://example.com)
 ### Smart Contracts
+- [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [List item](http://example.com)
 - [List item](http://example.com)
 
@@ -60,13 +62,12 @@
 
 ## CTO & Tech Leads
 
+- [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
-- [List item](http://example.com)
 
 ## Data Wizards 🪄
 
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
-- [List item](http://example.com)
 
 ## Legal 🕊️
 
