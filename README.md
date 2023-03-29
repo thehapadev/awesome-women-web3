@@ -55,7 +55,7 @@
 
 - [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
 - [Angela Steffens, Unlock Protocol](https://twitter.com/wonderwomancode)
-- [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
+- [Vaida Saul](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 
 ## CTO & Tech Leads
 
