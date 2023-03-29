@@ -13,6 +13,8 @@
   - [Data Wizards 🪄](#data-wizards-)
   - [Legal 🕊️](#legal-%EF%B8%8F)
   - [DeFi](#defi)
+  - [UX Engineers](#ux-engineers)
+  - [Game Devs 🎮](#game-devs-)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
 
