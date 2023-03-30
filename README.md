@@ -60,6 +60,7 @@
 ## Community Leaders
 
 - [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
+- [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 
 ## CTO & Tech Leads
