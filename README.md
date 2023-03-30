@@ -42,6 +42,7 @@
 ## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
+- [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
 - [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
