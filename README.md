@@ -70,6 +70,7 @@
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
+- [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays) | [Ensō](https://www.surgewomen.io/](https://www.ensocollective.xyz/)
 
 ## Data Wizards 🪄
 
