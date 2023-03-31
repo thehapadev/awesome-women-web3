@@ -57,7 +57,7 @@
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
-- [LeAnn Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
+- [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
 ## Community Leaders
