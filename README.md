@@ -70,7 +70,7 @@
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
-- [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays) | [Ensō](https://www.surgewomen.io/](https://www.ensocollective.xyz/)
+- [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
 ## Data Wizards 🪄
 
@@ -97,6 +97,6 @@
 
 ## More than 50% Women Devs on a Team (Company List)
 
-- [Ensō](https://www.ensocollective.xyz/) 
+- [Ensō Collective](https://www.ensocollective.xyz/) 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
