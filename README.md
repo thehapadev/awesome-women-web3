@@ -31,6 +31,8 @@
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
+- [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
+
 ### Protocol Engineers
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [List item](http://example.com)
