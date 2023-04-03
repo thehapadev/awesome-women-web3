@@ -62,7 +62,7 @@
 
 ## Community Leaders
 
-- [Angelina Russe, Alchemy](https://twitter.com/angelinarusse)
+- [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, GOLDen Meta Empowerment Hub](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
