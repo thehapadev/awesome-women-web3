@@ -67,6 +67,7 @@
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark) | [Encode Bootcamps](https://www.encode.club/encode-bootcamps)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
+- [Shirin Bucknam](https://twitter.com/ShirinBucknam) | [Crypto Witch Club](https://www.cryptowitchclub.io/)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 
 ## CTO & Tech Leads
