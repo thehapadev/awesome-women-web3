@@ -63,7 +63,7 @@
 ## Community Leaders
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
-- [Doc Peace, GOLDen Meta Empowerment Hub](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
+- [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark) | [Encode Bootcamps](https://www.encode.club/encode-bootcamps)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
