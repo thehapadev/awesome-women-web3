@@ -47,6 +47,7 @@
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
+- [Elan Halpern, Alchemy](https://twitter.com/0xelan)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
