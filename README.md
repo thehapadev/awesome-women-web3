@@ -70,7 +70,7 @@
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
 - [Shirin Bucknam](https://twitter.com/ShirinBucknam) | [Crypto Witch Club](https://www.cryptowitchclub.io/)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
-- [Honorary Allies 💖: En, Wonder](https://twitter.com/cult_leader_en)
+- [Honorary Allies 💖: En Canada, Wonder](https://twitter.com/cult_leader_en)
 
 ## CTO & Tech Leads
 
