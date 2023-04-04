@@ -45,7 +45,7 @@
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
-- [Bianca Buzea, Balancer](https://twitter.com/abruzuc) | [Dev Rel Uni](https://www.devreluni.com/)
+- [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
@@ -64,6 +64,7 @@
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, GOLDen Meta Empowerment Hub](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
+- [Eomji Park, Encode Club](https://twitter.com/eomjipark) | [Encode Bootcamps] (https://www.encode.club/encode-bootcamps)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
