@@ -65,10 +65,12 @@
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark) | [Encode Bootcamps](https://www.encode.club/encode-bootcamps)
+- [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
 - [Shirin Bucknam](https://twitter.com/ShirinBucknam) | [Crypto Witch Club](https://www.cryptowitchclub.io/)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
+- [Honorary Allies 💖: En, Wonder](https://twitter.com/cult_leader_en)
 
 ## CTO & Tech Leads
 
