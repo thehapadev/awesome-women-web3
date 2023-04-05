@@ -62,7 +62,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
+- [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
+- [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
+- [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love, W3BCloud](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
@@ -93,7 +96,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Legal 🕊️
 
 - [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
-- [List item](http://example.com)
 
 ## DeFi
 
