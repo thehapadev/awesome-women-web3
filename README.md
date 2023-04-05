@@ -70,6 +70,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love, W3BCloud](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
+- [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
 ## Community Leaders
@@ -102,8 +103,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## DeFi
 
+- [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
-- [List item](http://example.com)
+
 
 ## UX Engineers
 
