@@ -2,10 +2,10 @@
 
 > A curated list of our favorite devs, founders, creatives, and contributors in the web3 ecosystem. 
 
-How it works: Nominate a dev or submit your twitter link with a pull request in this format:
+**How it works**: Nominate a dev or submit your twitter link with a pull request in this format:
 [name, web3 company] (twitter) | [website or portfolio] (link) | [projects founded/leading] (link)
 
-This is a collaborative repo. Pass it forward! ‍💫 
+This is a collaborative repo, so pass it forward! ‍💫 
 
 ## Categories
 
