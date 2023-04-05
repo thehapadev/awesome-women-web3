@@ -27,7 +27,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Front-End
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
-- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
@@ -76,7 +75,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Community Leaders
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
-- [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
