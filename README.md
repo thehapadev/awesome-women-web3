@@ -76,7 +76,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
-- [Eomji Park, Encode Club](https://twitter.com/eomjipark) | [Encode Bootcamps](https://www.encode.club/encode-bootcamps)
+- [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
