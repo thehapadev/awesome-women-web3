@@ -64,6 +64,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
+- [Maggie Love, W3BCloud](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
 ## Community Leaders
