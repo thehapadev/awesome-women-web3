@@ -92,14 +92,17 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Data Wizards 🪄
 
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
+- [List item](http://example.com)
 
 ## Legal 🕊️
 
 - [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
+- [List item](http://example.com)
 
 ## DeFi
 
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
+- [List item](http://example.com)
 
 ## UX Engineers
 
