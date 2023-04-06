@@ -63,6 +63,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
+- [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [Seahorse Language (Solana)](https://seahorse-lang.org/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
@@ -71,12 +72,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love, W3BCloud](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
+- [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
-## Ecosystem Founders ♻️ ###DAOs, Hacks, and Education
+## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
+- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
 
 ## Community Leaders
@@ -96,7 +99,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## CTO & Tech Leads
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
-- [Gianina Skarlett](https://twitter.com/gianinaskarlett) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
+- [Gianina Skarlett](https://www.gianinaskarlett.com/) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Victoria Johnston, Founder](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
@@ -115,6 +118,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
+- [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 
 
 ## UX Engineers
