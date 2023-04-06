@@ -71,7 +71,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
-- [Maggie Love, W3BCloud](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
+- [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
@@ -118,6 +118,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
+- [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 
 
