@@ -67,7 +67,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
-- [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://twitter.com/izgnzlz)
+- [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
 - [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
