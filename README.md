@@ -74,9 +74,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
-## Ecosystem Founders ♻️ 
-###DAOs, Educational Platforms, and Web3 Job Boards
+## Ecosystem Founders ♻️ ###DAOs, Hacks, and Education
 
+- [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
 
 ## Community Leaders
@@ -96,6 +96,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## CTO & Tech Leads
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
+- [Gianina Skarlett](https://twitter.com/gianinaskarlett) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Victoria Johnston, Founder](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
