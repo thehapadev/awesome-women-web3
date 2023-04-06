@@ -28,6 +28,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Front-End
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
+- [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09) | [LinkedIn](https://www.linkedin.com/in/ambareen-azam/)
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
