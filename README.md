@@ -74,6 +74,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 
+## Ecosystem Founders ♻️ DAOs, Educational Platforms, and Web3 Job Boards
+
+- [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
+
 ## Community Leaders
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
