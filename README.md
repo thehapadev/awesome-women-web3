@@ -89,6 +89,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Erika Gayle, Tials](https://twitter.com/erikagaylec) | [Surge Women](https://twitter.com/surge_women) | [Women Making Waves](https://twitter.com/WomenMakingWave)
+- [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
