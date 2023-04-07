@@ -43,7 +43,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Protocol Engineers
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
-- [List item](http://example.com)
+- [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [List item](http://example.com)
@@ -52,13 +52,16 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
+- [Albiona Zota, zkSync](https://twitter.com/albicodes)
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
+- [Angie Jones, TBD@Block](https://twitter.com/techgirl1908) 
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Brandy Lee Camacho, cLabs](https://twitter.com/brandylee79)
 - [Camila Ramos, Fuel Labs](https://twitter.com/camiinthisthang)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Dawn Kelly, Filecoin](https://twitter.com/run4pancakes)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
+- [Emily Lin, Truffle](https://twitter.com/_emjlin)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
@@ -91,6 +94,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
+- [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
 
 ## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
@@ -102,6 +106,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
+- [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Erika Gayle, Tials](https://twitter.com/erikagaylec) | [Surge Women](https://twitter.com/surge_women) | [Women Making Waves](https://twitter.com/WomenMakingWave)
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
@@ -155,5 +160,16 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## More than 50% Women Devs on a Team (Company List)
 
 - [Ensō Collective](https://www.ensocollective.xyz/) 
+
+## Buidl Communities
+- [Blu3 DAO](https://www.blu3global.org/)
+- [buildspace](https://buildspace.so/)
+- [BuidlGuidl](https://buidlguidl.com/)
+- [Build Pr3tti](https://buildpr3tti.xyz/)
+- [Developer DAO](https://www.developerdao.com/)
+- [ETH Global](https://ethglobal.com/)
+- [H.E.R. DAO](https://www.her-dao.xyz/)
+- [Women Build Web3](https://www.womenbuildweb3.com/)
+- [Women in Web3](https://womeninweb3.com/)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
