@@ -165,11 +165,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Blu3 DAO](https://www.blu3global.org/)
 - [buildspace](https://buildspace.so/)
 - [BuidlGuidl](https://buidlguidl.com/)
-- [Build Pr3tti](https://buildpr3tti.xyz/)
 - [Developer DAO](https://www.developerdao.com/)
 - [ETH Global](https://ethglobal.com/)
 - [H.E.R. DAO](https://www.her-dao.xyz/)
-- [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Women in Web3](https://womeninweb3.com/)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
