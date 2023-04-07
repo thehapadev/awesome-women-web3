@@ -53,12 +53,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
+- [Camila Ramos, Fuel Labs](https://twitter.com/camiinthisthang)
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
+- [Steph Orpilla, Polygon](https://twitter.com/0ceans404)
 - [Vanes Mercado, WalletConnect](https://twitter.com/_finessevanes)
 
 
@@ -66,6 +68,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [Seahorse Language (Solana)](https://seahorse-lang.org/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
+- [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
@@ -73,9 +76,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
+- [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
+- [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
+- [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 
 ## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
@@ -92,6 +98,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
+- [Paff Evara](https://twitter.com/thisispaff) | [Take Up Space](https://twitter.com/takeupspacehq)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
 - [Shirin Bucknam](https://twitter.com/ShirinBucknam) | [Crypto Witch Club](https://www.cryptowitchclub.io/)
@@ -131,7 +138,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Game Devs 🎮
 
-- [List item](http://example.com)
+- [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [List item](http://example.com)
 
 ## More than 50% Women Devs on a Team (Company List)
