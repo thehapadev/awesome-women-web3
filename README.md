@@ -113,7 +113,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Lacey Kaelani](https://twitter.com/Laceykaelani) | [metaintro](https://www.metaintro.com/)
-- [Manasi Vora, Komorebi Collective](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
+- [Manasi Vora, Komorebi](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
 - [Paff Evara](https://twitter.com/thisispaff) | [Take Up Space](https://twitter.com/takeupspacehq)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
