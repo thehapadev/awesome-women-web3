@@ -169,6 +169,5 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Developer DAO](https://www.developerdao.com/)
 - [ETH Global](https://ethglobal.com/)
 - [H.E.R. DAO](https://www.her-dao.xyz/)
-- [Women in Web3](https://womeninweb3.com/)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
