@@ -163,6 +163,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Buidl Communities
 - [Blu3 DAO](https://www.blu3global.org/)
+- [Build Pr3tti](https://twitter.com/buildpr3tti)
 - [buildspace](https://buildspace.so/)
 - [BuidlGuidl](https://buidlguidl.com/)
 - [Developer DAO](https://www.developerdao.com/)
