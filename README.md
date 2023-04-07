@@ -86,7 +86,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
-- [Nadia Eldeib](https://ethoswallet.xyz/)
+- [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
