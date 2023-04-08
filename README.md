@@ -99,7 +99,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
-- [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
@@ -109,6 +108,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Allie Joy Tsahey](https://twitter.com/techbaddieallie) | [Baddies in Tech](https://www.baddiesintech.com/)
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
+- [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
