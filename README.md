@@ -46,8 +46,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Developer Advocates 🥑
 
@@ -63,6 +61,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Dawn Kelly, Filecoin](https://twitter.com/run4pancakes)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
 - [Emily Lin, Truffle](https://twitter.com/_emjlin)
+- [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
@@ -77,6 +76,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
+- [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
@@ -137,7 +137,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Data Wizards 🪄
 
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
-- [List item](http://example.com)
 
 ## Legal 🕊️
 
@@ -155,12 +154,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers
 
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
-- [List item](http://example.com)
 
 ## Game Devs 🎮
 
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
-- [List item](http://example.com)
 
 ## More than 50% Women Devs on a Team (Company List)
 
