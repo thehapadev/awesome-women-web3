@@ -1,6 +1,6 @@
 # awesome-women-web3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of our favorite devs, founders, creatives, and contributors in the web3 ecosystem. 
+> A ~~curated~~ community list of our favorite devs, founders, creatives, and contributors in the web3 ecosystem. 
 
 **How it works**: Nominate a dev or submit your twitter link with a pull request in this format:
 
