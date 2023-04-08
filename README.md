@@ -58,6 +58,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
 - [Brandy Lee Camacho, cLabs](https://twitter.com/brandylee79)
 - [Camila Ramos, Fuel Labs](https://twitter.com/camiinthisthang)
+- [Cat McGee, Hype](https://twitter.com/CatMcGeeCode) 
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
 - [Dawn Kelly, Filecoin](https://twitter.com/run4pancakes)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
@@ -104,6 +105,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Community Leaders
 
+- [Allie Joy Tsahey](https://twitter.com/techbaddieallie) | [Baddies in Tech](https://www.baddiesintech.com/)
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
@@ -136,11 +138,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Legal 🕊️
 
-- [Maria](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
-- [List item](http://example.com)
+- [María Castillo](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
+- [Maria Riivari, AAVE](https://twitter.com/MariaRiivari) 
 
 ## DeFi
 
+- [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
