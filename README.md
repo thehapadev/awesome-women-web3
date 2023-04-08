@@ -99,7 +99,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
+- [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
+- [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
 
@@ -119,6 +121,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Paff Evara](https://twitter.com/thisispaff) | [Take Up Space](https://twitter.com/takeupspacehq)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
+- [Shantelle Awomoyi, Gnosis Builders](https://twitter.com/afrishan) 
 - [Shirin Bucknam](https://twitter.com/ShirinBucknam) | [Crypto Witch Club](https://www.cryptowitchclub.io/)
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 - [Honorary Allies 💖: En Canada, Wonder](https://twitter.com/cult_leader_en)
@@ -148,7 +151,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
-
 
 ## UX Engineers
 
