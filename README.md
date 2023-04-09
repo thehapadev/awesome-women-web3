@@ -31,6 +31,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09) | [LinkedIn](https://www.linkedin.com/in/ambareen-azam/)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
+- [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
 
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
@@ -96,6 +97,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
+- [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
 - [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
@@ -106,6 +108,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
 
+- [Debbie Soon](https://twitter.com/debsoon) | [HUG](https://thehug.xyz/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
@@ -159,9 +162,11 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 
-## UX Engineers
+## UX Engineers & Designers
 
+- [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+- [Miya Zhang](https://twitter.com/miyahzhang)| [UX Designathon](https://uxdesignathon.com/)
 
 ## Game Devs 🎮
 
