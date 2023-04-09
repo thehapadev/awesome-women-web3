@@ -166,7 +166,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
-- [Miya Zhang](https://twitter.com/miyahzhang)| [UX Designathon](https://uxdesignathon.com/)
+- [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 
 ## Game Devs 🎮
 
