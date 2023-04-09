@@ -11,6 +11,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Categories
 
   - [Web3 Developers](#web3-developers)
+  - [Creative Devs 🦄](#creative-devs-)
   - [Developer Advocates 🥑](#developer-advocates-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
   - [Ecosystem Founders ♻️ DAOs, Hackathons, and Education](#ecosystem-founders-%EF%B8%8F-daos-hackathons-and-education)
