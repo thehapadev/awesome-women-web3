@@ -39,6 +39,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Olubusayo Amowe, Radicle](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
+- [Sarah Benson](https://twitter.com/itssarahbenzo) | [Website](https://www.sarahbenson.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
 
