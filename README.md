@@ -50,7 +50,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
 ## Creative Devs 🦄 
-- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Tumblr](https://girlmeetsboyfasshon.tumblr.com/)
+- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
 - [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 
