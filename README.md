@@ -14,13 +14,13 @@ This is a collaborative repo, so pass it forward! ‍💫
   - [Creative Devs 🦄](#creative-devs-)
   - [Developer Advocates 🥑](#developer-advocates-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
-  - [Ecosystem Founders ♻️ DAOs, Hackathons, and Education](#ecosystem-founders-%EF%B8%8F-daos-hackathons-and-education)
+  - [Ecosystem Founders ♻️](#ecosystem-founders-%EF%B8%8F-)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto--tech-leads)
   - [Data Wizards 🪄](#data-wizards-)
   - [Legal 🕊️](#legal-%EF%B8%8F)
   - [DeFi](#defi)
-  - [UX Engineers](#ux-engineers)
+  - [UX Engineers & Designers](#ux-engineers--designers)
   - [Game Devs 🎮](#game-devs-)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
@@ -106,7 +106,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 - [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
 
-## Ecosystem Founders ♻️ DAOs, Hackathons, and Education
+## Ecosystem Founders ♻️ 
 
 - [Debbie Soon](https://twitter.com/debsoon) | [HUG](https://thehug.xyz/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
