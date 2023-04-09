@@ -47,6 +47,11 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
+## Creative Devs 🦄 (Design and Dev)
+- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
+- [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
+- [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+
 ## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
