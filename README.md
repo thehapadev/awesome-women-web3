@@ -125,6 +125,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Lacey Kaelani](https://twitter.com/Laceykaelani) | [metaintro](https://www.metaintro.com/)
 - [Manasi Vora, Komorebi](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
+- [Marie Robin](https://twitter.com/MaryPopsIt) | [Fleet Collective](https://www.fleetweb3.xyz/)
 - [Paff Evara](https://twitter.com/thisispaff) | [Take Up Space](https://twitter.com/takeupspacehq)
 - [Paloma, Developer DAO](https://twitter.com/web3paloma) | [Women Build Web3](https://www.womenbuildweb3.com/)
 - [Riley Blackwell](https://twitter.com/rileybeans_eth) | [Together](https://twitter.com/together_xyz)
