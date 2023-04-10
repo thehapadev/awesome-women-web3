@@ -56,6 +56,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Github](https://github.com/jennyriess)
 - [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+- [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
 
 ## Developer Advocates 🥑
 
@@ -100,7 +101,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
-- [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) | [Curious Addys](https://curiousaddys.com/)
+- [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
@@ -117,6 +118,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Debbie Soon](https://twitter.com/debsoon) | [HUG](https://thehug.xyz/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
+- [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
 
@@ -126,6 +128,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Allie Joy Tsahey](https://twitter.com/techbaddieallie) | [Baddies in Tech](https://www.baddiesintech.com/)
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
+- [Chase Chapman, Metropolis](https://twitter.com/chaserchapman) | [Podcast](https://www.othersidepod.xyz/)
 - [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
@@ -134,10 +137,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Hiromi Ouchi](https://twitter.com/hrm_o25) | [Green Pill Japan](https://twitter.com/hrm_o25)
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
+- [Kiana Pirouz, Backdrop](https://twitter.com/kianamoods) | [Website](https://www.kianamoods.xyz/)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Lacey Kaelani](https://twitter.com/Laceykaelani) | [metaintro](https://www.metaintro.com/)
 - [Lauren Ingram](https://twitter.com/LaurenWeb3) | [Women of Web3](https://www.womenofweb3.co/)
 - [Manasi Vora, Komorebi](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
+- [Maricris Bonzo](https://twitter.com/seemcat) | [Women in Web3](https://womeninweb3.com/)
 - [Marie Robin](https://twitter.com/MaryPopsIt) | [Fleet Collective](https://www.fleetweb3.xyz/)
 - [Melodi Kaya, Chainlink](https://twitter.com/melodikaya)
 - [Paff Evara](https://twitter.com/thisispaff) | [Take Up Space](https://twitter.com/takeupspacehq)
@@ -173,6 +178,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Christine Hall](https://twitter.com/christine_hall) | [Floor](https://www.floornfts.io/)
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
+- [Kristi Põldsam](https://twitter.com/kpoldsam) | [Sommelier](https://www.sommelier.finance/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 - [Rachel Black](https://twitter.com/RachBLondon) | [Halofi](https://halofi.me/)
@@ -189,11 +195,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 - [Neesh](https://twitter.com/losingmyego) | [Losing My Ego](https://www.losingmyego.studio/)
+- [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
 
 ## Game Devs 🎮
 
+- [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 
 ## More than 50% Women Devs on a Team (Company List)
