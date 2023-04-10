@@ -174,11 +174,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
+- [Georgia Rakusen](https://twitter.com/G_Rak) [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80)| [OpenUX](https://twitter.com/OpenUX_xyz)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
+- [Neesh](https://twitter.com/losingmyego) | [Website](https://www.losingmyego.studio/)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
 
