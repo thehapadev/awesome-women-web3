@@ -101,6 +101,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julia Rosenberg](https://twitter.com/JulzRoze) | [Metropolis](https://www.metropolis.space/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
+- [Kathleen Breitman](https://twitter.com/breitwoman) | [Tezos](https://tezos.com/)
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
@@ -186,6 +187,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 - [Rachel Black](https://twitter.com/RachBLondon) | [Halofi](https://halofi.me/)
 - [Rosa María Orellana](https://twitter.com/assoritam) | [FinTech Labs](https://fintechlab.la/)
+- [Yi He](https://twitter.com/heyibinance) | [Binance](https://www.binance.com/en)
 
 ## UX Engineers & Designers
 
