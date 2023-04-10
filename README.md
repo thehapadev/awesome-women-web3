@@ -91,6 +91,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
+- [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
@@ -184,6 +185,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
 - [Rachel Black](https://twitter.com/RachBLondon) | [Halofi](https://halofi.me/)
+- [Rosa María Orellana](https://twitter.com/assoritam) | [FinTech Labs](https://fintechlab.la/)
 
 ## UX Engineers & Designers
 
