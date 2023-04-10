@@ -48,6 +48,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Protocol Engineers
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
+- [Vanishree Rao, Cardano](https://twitter.com/vanishree_rao)
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
@@ -106,6 +107,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
+- [Melissa Zhang](https://twitter.com/MelissaZhang13) | [Bonfire](https://www.bonfire.xyz/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
 - [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
@@ -157,13 +159,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Vaida Saul, MetricsDAO](https://twitter.com/imvaida) | [PowHER](https://www.powher.io/)
 - [Honorary Allies 💖: En Canada, Wonder](https://twitter.com/cult_leader_en)
 
-## CTO & Tech Leads
+## Founder CTO & Tech Leads
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Gianina Skarlett](https://www.gianinaskarlett.com/) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
+- [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
-- [Victoria Johnston, Founder](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
+- [Victoria Johnston](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
 ## Data Wizards 🪄
