@@ -14,7 +14,7 @@ This is a collaborative repo, so pass it forward! ‍💫
   - [Creative Devs 🦄](#creative-devs-)
   - [Developer Advocates 🥑](#developer-advocates-)
   - [Founders of Web3 SaaS, Protocols, Securities, etc.](#founders-of-web3-saas-protocols-securities-etc)
-  - [Ecosystem Founders ♻️](#ecosystem-founders-%EF%B8%8F-)
+  - [Ecosystem Founders ♻️](#ecosystem-founders-%EF%B8%8F)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto--tech-leads)
   - [Data Wizards 🪄](#data-wizards-)
