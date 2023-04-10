@@ -128,7 +128,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Erika Gayle, Tials](https://twitter.com/erikagaylec) | [Surge Women](https://twitter.com/surge_women) | [Women Making Waves](https://twitter.com/WomenMakingWave)
-- [Hiromi](https://twitter.com/hrm_o25) | [Green Pill Japan](https://twitter.com/hrm_o25)
+- [Hiromi Ouchi](https://twitter.com/hrm_o25) | [Green Pill Japan](https://twitter.com/hrm_o25)
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
