@@ -38,6 +38,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 ### Full-Stack
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
+- [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Dev DAO Women](https://twitter.com/devdaowomen) | [Website](https://meowy.arweave.dev/)
 - [Olubusayo Amowe, Radicle](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
 - [Sarah Benson](https://twitter.com/itssarahbenzo) | [Website](https://www.sarahbenson.dev/)
@@ -51,6 +52,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
 ## Creative Devs 🦄 
+- [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
 - [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
@@ -85,12 +87,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
+- [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
+- [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
 - [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
@@ -159,6 +163,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## DeFi
 
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
+- [Christine Hall](https://twitter.com/christine_hall) | [Floor](https://www.floornfts.io/)
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
@@ -167,6 +172,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
+- [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 
