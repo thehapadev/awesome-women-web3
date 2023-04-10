@@ -87,7 +87,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
-- [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
@@ -123,6 +122,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Allie Joy Tsahey](https://twitter.com/techbaddieallie) | [Baddies in Tech](https://www.baddiesintech.com/)
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
+- [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
 - [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
 - [Doc Peace, MetaGOLD](https://twitter.com/metadocpeace) | [Podcast](https://twitter.com/goldenmeta_io)
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
@@ -148,6 +148,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Gianina Skarlett](https://www.gianinaskarlett.com/) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
+- [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
 - [Victoria Johnston, Founder](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
@@ -171,10 +172,15 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## UX Engineers & Designers
 
+- [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+- [Jaclyn Lenee](https://twitter.com/jaclynlenee) [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
+- [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
+- [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
+- [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
 
 ## Game Devs 🎮
 
