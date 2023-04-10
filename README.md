@@ -164,6 +164,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## DeFi
 
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
+- [Bette Chen](https://twitter.com/bettechentt) | [Acala](https://acala.network/)
 - [Christine Hall](https://twitter.com/christine_hall) | [Floor](https://www.floornfts.io/)
 - [Jackie Bona](https://twitter.com/jackie_bona) | [Valora](https://valoraapp.com/)
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
