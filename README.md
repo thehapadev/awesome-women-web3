@@ -60,7 +60,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Developer Advocates 🥑
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
-- [Albiona Zota, zkSync](https://twitter.com/albicodes)
+- [Albiona Hoti, zkSync](https://twitter.com/albicodes)
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
 - [Angie Jones, TBD@Block](https://twitter.com/techgirl1908) 
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
@@ -173,6 +173,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
+- [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Georgia Rakusen](https://twitter.com/G_Rak) | [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80) | [OpenUX](https://twitter.com/OpenUX_xyz)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
