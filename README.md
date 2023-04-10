@@ -53,7 +53,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Creative Devs 🦄 
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
-- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/)
+- [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Github](https://github.com/jennyriess)
 - [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 
@@ -128,9 +128,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Cree de Beauvoir, ETH Global](https://twitter.com/creedebeauvoir)
 - [Eomji Park, Encode Club](https://twitter.com/eomjipark)
 - [Erika Gayle, Tials](https://twitter.com/erikagaylec) | [Surge Women](https://twitter.com/surge_women) | [Women Making Waves](https://twitter.com/WomenMakingWave)
+- [Hiromi](https://twitter.com/hrm_o25) | [Green Pill Japan](https://twitter.com/hrm_o25)
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
-- [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
+- [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Lacey Kaelani](https://twitter.com/Laceykaelani) | [metaintro](https://www.metaintro.com/)
 - [Manasi Vora, Komorebi](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
 - [Marie Robin](https://twitter.com/MaryPopsIt) | [Fleet Collective](https://www.fleetweb3.xyz/)
@@ -170,6 +171,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
+- [Rachel Black](https://twitter.com/RachBLondon) | [Halofi](https://halofi.me/)
 
 ## UX Engineers & Designers
 
