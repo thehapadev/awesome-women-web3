@@ -74,6 +74,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Emily Lin, Truffle](https://twitter.com/_emjlin)
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
+- [Lisa A., Taiko](https://twitter.com/cryptobuilder_)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
@@ -99,6 +100,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
+- [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) | [Curious Addys](https://curiousaddys.com/)
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
@@ -120,6 +122,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Community Leaders
 
+- [Abbey Titcomb, Radicle](https://twitter.com/abbey_titcomb) | [Website](http://digitalalchemy.xyz/)
 - [Allie Joy Tsahey](https://twitter.com/techbaddieallie) | [Baddies in Tech](https://www.baddiesintech.com/)
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
@@ -133,6 +136,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
 - [Lacey Kaelani](https://twitter.com/Laceykaelani) | [metaintro](https://www.metaintro.com/)
+- [Lauren Ingram](https://twitter.com/LaurenWeb3) | [Women of Web3](https://www.womenofweb3.co/)
 - [Manasi Vora, Komorebi](https://twitter.com/manasilvora) | [Women in Blockchain](https://womeninblockchain.global/)
 - [Marie Robin](https://twitter.com/MaryPopsIt) | [Fleet Collective](https://www.fleetweb3.xyz/)
 - [Melodi Kaya, Chainlink](https://twitter.com/melodikaya)
