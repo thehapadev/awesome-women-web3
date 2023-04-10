@@ -203,7 +203,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
-- [Neesh](https://twitter.com/losingmyego) | [Losing My Ego](https://www.losingmyego.studio/)
+- [Neesh Chaudhary](https://twitter.com/losingmyego) | [LOSINGMYEGO](https://www.losingmyego.studio/)
 - [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
