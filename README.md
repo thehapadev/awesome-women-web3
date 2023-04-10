@@ -116,7 +116,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Ecosystem Founders ♻️ 
 
 - [Debbie Soon](https://twitter.com/debsoon) | [HUG](https://thehug.xyz/)
-- [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
+- [Fatima Riwan] | [Linkedin](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
+- [Gabrielle Hibbert] | [Linkedin](https://www.linkedin.com/in/gabrielle-hibbert/) | [Future Proof Collective](https://www.futureproof.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
