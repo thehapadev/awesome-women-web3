@@ -17,6 +17,7 @@ This is a collaborative repo, so pass it forward! ‍💫
   - [Ecosystem Founders ♻️](#ecosystem-founders-%EF%B8%8F)
   - [Community Leaders](#community-leaders)
   - [CTO & Tech Leads](#cto--tech-leads)
+  - [Growth & Ops](#growth--ops)
   - [Data Wizards 🪄](#data-wizards-)
   - [Legal 🕊️](#legal-%EF%B8%8F)
   - [DeFi](#defi)
