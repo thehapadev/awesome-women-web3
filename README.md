@@ -54,6 +54,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Creative Devs 🦄 
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
+- [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Github](https://github.com/jennyriess)
 - [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
@@ -70,6 +71,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Camila Ramos, Fuel Labs](https://twitter.com/camiinthisthang)
 - [Cat McGee, Hype](https://twitter.com/CatMcGeeCode) 
 - [Ciara Nightingale, Thirdweb](https://twitter.com/CiaraNightingal)
+- [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
 - [Dawn Kelly, Filecoin](https://twitter.com/run4pancakes)
 - [Debbie Ly, Lit Protocol](https://twitter.com/deb_i_deb)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
