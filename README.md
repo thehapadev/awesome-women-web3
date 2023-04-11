@@ -85,6 +85,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Lisa A., Taiko](https://twitter.com/cryptobuilder_)
+- [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
@@ -103,6 +104,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
+- [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
@@ -129,6 +131,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Ecosystem Founders ♻️ 
 
 - [Debbie Soon](https://twitter.com/debsoon),[ Randi Zuckerberg](https://twitter.com/randizuckerberg) | [HUG](https://thehug.xyz/)
+- [Denise Schaefer](https://twitter.com/deeeniseS) | [Surge Women](https://www.surgewomen.io/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Gabrielle Hibbert](https://www.linkedin.com/in/gabrielle-hibbert/) | [Future Proof Collective](https://www.futureproof.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
@@ -177,6 +180,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Victoria Johnston](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
+## Growth + Ops 
+- [Feven Mekonenn, SheFi](https://twitter.com/feven206)
+- [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+
 ## Data Wizards 🪄
 
 - [Chuxin Huang, OP Labs](https://twitter.com/chuxin_h) | [Website](https://www.chuxinhuang.com/)
@@ -191,6 +198,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## DeFi
 
+- [Alana Podrx](https://twitter.com/AlanaPodrx) | [Eve Wealth](https://twitter.com/evewealthhq)
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
 - [Bette Chen](https://twitter.com/bettechentt) | [Acala](https://acala.network/)
 - [Christine Hall](https://twitter.com/christine_hall) | [Floor](https://www.floornfts.io/)
