@@ -41,7 +41,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
 - [Olubusayo Amowe, Radicle](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
-- [Sarah Benson](https://twitter.com/itssarahbenzo) | [Website](https://www.sarahbenson.dev/)
+- [Paige Jones, Pinata](https://twitter.com/paige__eth) | [Github](https://github.com/paigexx)
+- [Sarah Benson](https://twitter.com/itssarahbenzo) | [Guava Tech](https://guavatech.io/) | [Website](https://www.sarahbenson.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
 
@@ -52,7 +53,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
+### Cryptography & Privacy Layer
+
+- [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
+
 ## Creative Devs 🦄 
+- [Ana Howard](https://twitter.com/AnaArsonist) | [Website](https://www.anahoward.me/) | [CatGPT](https://catgpt.guru/)
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
 - [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Github](https://github.com/jennyriess)
@@ -199,11 +205,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
+- [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) | 
 - [Georgia Rakusen](https://twitter.com/G_Rak) | [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80) | [OpenUX](https://twitter.com/OpenUX_xyz)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
+- [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
+- [Min Kim](https://twitter.com/imminkim) | [Airfoil](https://www.airfoil.studio/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 - [Neesh Chaudhary](https://twitter.com/losingmyego) | [LOSINGMYEGO](https://www.losingmyego.studio/)
 - [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
