@@ -85,7 +85,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Lisa A., Taiko](https://twitter.com/cryptobuilder_)
-- [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh)
+- [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh) | [Website](https://tell.ie/nneoma/OuE8AVML6T3V)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
@@ -135,6 +135,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
 - [Gabrielle Hibbert](https://www.linkedin.com/in/gabrielle-hibbert/) | [Future Proof Collective](https://www.futureproof.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
+- [Moojan Asghari](https://twitter.com/MoojanAsghari) | [Thousand Faces](https://www.thousandfaces.art/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
@@ -181,6 +182,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
 ## Growth + Ops 
+- [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
 
