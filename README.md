@@ -49,13 +49,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Protocol Engineers
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
-- [Vanishree Rao, Cardano](https://twitter.com/vanishree_rao)
+
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 
-### Cryptography & Privacy Layer
-
+### zkProofs (Cryptography)
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
+- [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
 ## Creative Devs 🦄 
 - [Ana Howard](https://twitter.com/AnaArsonist) | [Website](https://www.anahoward.me/) | [CatGPT](https://catgpt.guru/)
@@ -179,7 +179,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Data Wizards 🪄
 
+- [Chuxin Huang, OP Labs](https://twitter.com/chuxin_h) | [Website](https://www.chuxinhuang.com/)
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
+- [Karina Qian, OpenSea](https://twitter.com/karinadoteth) | [Dashboard](https://dune.com/kqian)
+- [Merve Noyan, Hugging Face](https://twitter.com/mervenoyann) | [Website](https://merveenoyan.github.io/me/)
 
 ## Legal 🕊️
 
