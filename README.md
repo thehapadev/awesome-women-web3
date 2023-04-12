@@ -131,6 +131,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Ecosystem Founders ♻️ 
 
+- [Cherie Hu](https://twitter.com/cheriehu42) | [Water & Music](https://www.waterandmusic.com/)
 - [Debbie Soon](https://twitter.com/debsoon),[ Randi Zuckerberg](https://twitter.com/randizuckerberg) | [HUG](https://thehug.xyz/)
 - [Denise Schaefer](https://twitter.com/deeeniseS) | [Surge Women](https://www.surgewomen.io/)
 - [Fatima Riwan](https://www.linkedin.com/in/frizwan/) | [Metaschool](https://metaschool.so/)
@@ -186,6 +187,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+- [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
 
 ## Data Wizards 🪄
 
