@@ -220,7 +220,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Rosa María Orellana](https://twitter.com/assoritam) | [FinTech Labs](https://fintechlab.la/)
 - [Yi He](https://twitter.com/heyibinance) | [Binance](https://www.binance.com/en)
 
-## UX Engineers & Full Stack Designers
+## UX Engineers & Designers
 
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
