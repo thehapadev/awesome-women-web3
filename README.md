@@ -64,7 +64,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
 - [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://thehapa.dev/) | [Github](https://github.com/jennyriess)
-- [Gel, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
+- [Angelica Turla, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
 
@@ -126,6 +126,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
 - [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
+- [Réka Medvecz](https://twitter.com/reka_eth) | [Guild](https://guild.xyz/)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
@@ -134,6 +135,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Ecosystem Founders ♻️ 
 
+- [Ashley Tyson](https://twitter.com/AsherT) | [Web3 Foundation](https://web3.foundation/)
 - [Cherie Hu](https://twitter.com/cheriehu42) | [Water & Music](https://www.waterandmusic.com/)
 - [Debbie Soon](https://twitter.com/debsoon),[ Randi Zuckerberg](https://twitter.com/randizuckerberg) | [HUG](https://thehug.xyz/)
 - [Denise Schaefer](https://twitter.com/deeeniseS) | [Surge Women](https://www.surgewomen.io/)
@@ -182,14 +184,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Founder CTO & Tech Leads
 
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
-- [Gianina Skarlett](https://www.gianinaskarlett.com/) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
+- [Gianina Skarlett](https://twitter.com/gianinaskarlett) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
 - [Victoria Johnston](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
-## Growth + Ops 
+## Growth & Ops 
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
@@ -208,7 +210,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [María Castillo](https://twitter.com/MariaCyberlaw) | [PeaceKeepers](https://twitter.com/Peacekeepers_io)
 - [Maria Riivari, AAVE](https://twitter.com/MariaRiivari) 
 
-## DeFi
+## DeFi Founders
 
 - [Alana Podrx](https://twitter.com/AlanaPodrx) | [Eve Wealth](https://twitter.com/evewealthhq)
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
