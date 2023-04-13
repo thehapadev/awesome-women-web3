@@ -138,9 +138,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Gabrielle Hibbert](https://www.linkedin.com/in/gabrielle-hibbert/) | [Future Proof Collective](https://www.futureproof.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Moojan Asghari](https://twitter.com/MoojanAsghari) | [Thousand Faces](https://www.thousandfaces.art/)
+- [Naomie Halioua](https://www.linkedin.com/in/naomiehalioua/),[ Phoebe Beigbeder](https://twitter.com/BeigbederPhoebe)| [Women in Web3](https://www.womeninweb3paris.com/)
+- [Natasha Hoskins](https://twitter.com/natashaghoskins) | [Boys Club](https://www.boysclub.vip/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
+- [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
 
 ## Community Leaders
 
@@ -193,6 +196,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Chuxin Huang, OP Labs](https://twitter.com/chuxin_h) | [Website](https://www.chuxinhuang.com/)
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
+- [Helena Love](https://twitter.com/0xhelena_eth) | [Website](https://nf.td/0xhelena)
 - [Karina Qian, OpenSea](https://twitter.com/karinadoteth) | [Dashboard](https://dune.com/kqian)
 - [Merve Noyan, Hugging Face](https://twitter.com/mervenoyann) | [Website](https://merveenoyan.github.io/me/)
 
@@ -219,6 +223,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
+- [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) | 
@@ -227,12 +232,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
+- [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Min Kim](https://twitter.com/imminkim) | [Airfoil](https://www.airfoil.studio/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 - [Neesh Chaudhary](https://twitter.com/losingmyego) | [LOSINGMYEGO](https://www.losingmyego.studio/)
 - [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
+- [Yana Sosna, ZORA](https://twitter.com/yanasosna) | [Website](https://www.yanasosna.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
 
 ## Game Devs 🎮
