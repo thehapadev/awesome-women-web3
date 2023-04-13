@@ -112,6 +112,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
+- [Jay Graber](https://twitter.com/arcalinea) | [Bluesky](https://blueskyweb.xyz/)
 - [Jin Chung](https://twitter.com/jinrummie) | [Rainbow Wallet](https://rainbow.me/)
 - [Julia Rosenberg](https://twitter.com/JulzRoze) | [Metropolis](https://www.metropolis.space/)
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
@@ -230,6 +231,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
 - [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) | 
 - [Georgia Rakusen](https://twitter.com/G_Rak) | [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80) | [OpenUX](https://twitter.com/OpenUX_xyz)
+- [Gresshaa Mehta, Metropolis](https://twitter.com/gresshaa) | [Website](https://tinyurl.com/gresshaamehtadesign)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
