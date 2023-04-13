@@ -220,7 +220,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Rosa María Orellana](https://twitter.com/assoritam) | [FinTech Labs](https://fintechlab.la/)
 - [Yi He](https://twitter.com/heyibinance) | [Binance](https://www.binance.com/en)
 
-## UX Engineers & Designers
+## UX Engineers & Full Stack Designers
 
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
@@ -231,6 +231,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
+- [Jessica Phan, Sound.xyz](https://twitter.com/ohjphan) 
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
 - [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
