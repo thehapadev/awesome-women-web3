@@ -46,6 +46,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Sarah Benson](https://twitter.com/itssarahbenzo) | [Guava Tech](https://guavatech.io/) | [Website](https://www.sarahbenson.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
+- [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
 
 ### Protocol Engineers
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
@@ -107,6 +108,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
+- [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain) | [DAO Governance Collective](https://twitter.com/DAOgovernance)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
