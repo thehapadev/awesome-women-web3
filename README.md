@@ -138,7 +138,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Gabrielle Hibbert](https://www.linkedin.com/in/gabrielle-hibbert/) | [Future Proof Collective](https://www.futureproof.so/)
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Moojan Asghari](https://twitter.com/MoojanAsghari) | [Thousand Faces](https://www.thousandfaces.art/)
-- [Naomie Halioua](https://www.linkedin.com/in/naomiehalioua/),[ Phoebe Beigbeder](https://twitter.com/BeigbederPhoebe)| [Women in Web3](https://www.womeninweb3paris.com/)
+- [Naomie Halioua](https://www.linkedin.com/in/naomiehalioua/),[ Phoebe Beigbeder](https://twitter.com/BeigbederPhoebe) | [Women in Web3](https://www.womeninweb3paris.com/)
 - [Natasha Hoskins](https://twitter.com/natashaghoskins) | [Boys Club](https://www.boysclub.vip/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
