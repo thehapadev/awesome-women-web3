@@ -33,6 +33,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 - [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
+- [Tracy King, Helium](https://twitter.com/stack_tracy_)
 
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
@@ -129,6 +130,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
+- [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 - [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
 
@@ -146,8 +148,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Natasha Hoskins](https://twitter.com/natashaghoskins) | [Boys Club](https://www.boysclub.vip/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
-- [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
-- [Vriti Saraf](https://twitter.com/VritiSaraf) | [Ed3 DAO](https://www.ed3dao.com/) 
+- [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks) | [SonR](https://twitter.com/SonR_app)
 - [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
 
 ## Community Leaders
