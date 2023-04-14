@@ -33,7 +33,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 - [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
-- [Tracy King, Helium](https://twitter.com/stack_tracy_)
+- [Tracy King, Heirloom](https://twitter.com/stack_tracy_)
 
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
