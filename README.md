@@ -101,7 +101,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
-- [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
@@ -148,6 +147,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks)
+- [Vriti Saraf](https://twitter.com/VritiSaraf) | [Ed3 DAO](https://www.ed3dao.com/) 
 - [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
 
 ## Community Leaders
@@ -183,11 +183,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Founder CTO & Tech Leads
 
+- [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Gianina Skarlett](https://twitter.com/gianinaskarlett) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
+- [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Victoria Johnston](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
@@ -253,6 +255,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
+- [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 
 ## More than 50% Women Devs on a Team (Company List)
 
