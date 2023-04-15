@@ -40,6 +40,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 
 ### Full-Stack
+- [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
@@ -76,6 +77,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Angelica Turla, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
+- [Sharon Shea, Immutable]() | [Website](https://sharonsheah.webflow.io/) | [Github](https://github.com/sharonsheah)
 
 ## Developer Advocates 🥑
 
@@ -117,6 +119,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Devin Lewtan](https://twitter.com/DevinLewtan) | [Mad Realities](https://madrealities.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
+- [Emily Furlong](https://twitter.com/emthemaker) | [Otterspace](https://www.otterspace.xyz/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain)
@@ -198,6 +201,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Founder CTO & Tech Leads
 
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
+- [Carrie Kellar](https://twitter.com/web3princess) | [Baxus](https://www.baxus.co/)
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Gianina Skarlett](https://twitter.com/gianinaskarlett) | [Crypto Tech Women](https://www.cryptotechwomennft.com/)
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
@@ -212,15 +216,19 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Growth & Ops 
 
+- [Aditi Sriram, Capsule](https://twitter.com/adeets_22) | [Website](https://aditi.is/)
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
+- [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+- [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
 
 ## Data Wizards 🪄
 
 - [Chuxin Huang, OP Labs](https://twitter.com/chuxin_h) | [Website](https://www.chuxinhuang.com/)
 - [Claire Xie, Dune](https://twitter.com/claire_xiee) | [Women in Crypto Club](https://twitter.com/womenincryptosf)
+- [Eugenia Cheskidova, ReadyPlayerMe](https://twitter.com/fogside1) 
 - [Helena Love](https://twitter.com/0xhelena_eth) | [Website](https://nf.td/0xhelena)
 - [Karina Qian, OpenSea](https://twitter.com/karinadoteth) | [Dashboard](https://dune.com/kqian)
 - [Merve Noyan, Hugging Face](https://twitter.com/mervenoyann) | [Website](https://merveenoyan.github.io/me/)
@@ -248,6 +256,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) | [Website](https://alysienne.com/)
+- [Bianca Mikaila](https://twitter.com/biancamikaila) | [Website](https://bianca.digital/)
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
@@ -274,7 +283,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Game Devs 🎮
 
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
-- [Krati Jain](https://twitter.com/kratijain) | [Librty](https://librty.xyz/)
+- [Krati Jain](https://twitter.com/kratijain) | [Librty](https://www.librty.xyz/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
