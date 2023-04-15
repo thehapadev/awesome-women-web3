@@ -102,6 +102,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
+- [Caitlin Leksana](https://twitter.com/0xCaitlin) | [Carma](https://www.carma.community/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
@@ -133,6 +134,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 - [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
+- [Tricia Jose](https://twitter.com/triciajose) | [Casama](https://www.casama.xyz/)
 
 ## Ecosystem Founders ♻️ 
 
@@ -190,7 +192,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
+- [Nico](https://nf.td/nico) | [BEB](https://beb.xyz)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
+- [Steph Harris](https://nf.td/steph) | [NF.TD](https://nf.td)
 - [Victoria Johnston](https://twitter.com/ctrlaltvictoria) | [Little Atlas](https://twitter.com/littleatlas_xyz)
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
@@ -260,7 +264,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## More than 50% Women Devs on a Team (Company List)
 
-- [Ensō Collective](https://www.ensocollective.xyz/) 
+- [BEB](https://beb.xyz/)
+- [Ensō Collective](https://www.ensocollective.xyz/)
+- [NF.TD](https://nf.td/) 
 
 ## Buidl Communities
 - [Blu3 DAO](https://www.blu3global.org/)
