@@ -117,7 +117,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
-- [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain) | [DAO Governance Collective](https://twitter.com/DAOgovernance)
+- [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
