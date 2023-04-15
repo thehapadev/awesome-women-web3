@@ -41,7 +41,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Full-Stack
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
+- [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
+- [Kendyl Key, Decentology](https://twitter.com/KendylCodes)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
 - [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Olubusayo Amowe](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
@@ -118,6 +120,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain)
+- [Grace Guan](https://twitter.com/gracewhiteguan) | [Unlonely](https://www.unlonely.app/)
 - [Friederike Ernst](https://twitter.com/tw_tter) | [Gnosis](https://www.gnosis.io/)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Isabel Gonzalez](https://twitter.com/izgnzlz) | [POAP](https://poap.xyz/)
@@ -249,7 +252,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
-- [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) | 
+- [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) 
 - [Georgia Rakusen](https://twitter.com/G_Rak) | [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80) | [OpenUX](https://twitter.com/OpenUX_xyz)
 - [Gresshaa Mehta, Metropolis](https://twitter.com/gresshaa) | [Website](https://tinyurl.com/gresshaamehtadesign)
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
