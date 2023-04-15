@@ -55,11 +55,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
-- [Clara van Staden](https://twitter.com/ClaraVanStaden)
+- [Clara van Staden, Snowflake](https://twitter.com/ClaraVanStaden)
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
+- [Xuannu, Crypto Coven](https://twitter.com/xuannu_eth)
 
 ### zkProofs (Cryptography)
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
