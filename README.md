@@ -134,6 +134,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Kathleen Breitman](https://twitter.com/breitwoman) | [Tezos](https://tezos.com/)
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
+- [Maria Paula](https://twitter.com/mptherealmvp) | [JPG](https://jpg.space/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
 - [Melissa Zhang](https://twitter.com/MelissaZhang13) | [Bonfire](https://www.bonfire.xyz/)
