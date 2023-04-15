@@ -54,8 +54,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
 
 ### Protocol Engineers
-- [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
+- [Clara van Staden](https://twitter.com/ClaraVanStaden)
+- [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
