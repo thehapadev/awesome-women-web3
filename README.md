@@ -208,7 +208,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
-- [Krati Jain](https://twitter.com/kratijain) | [https://librty.xyz/]
+- [Krati Jain](https://twitter.com/kratijain) | [Librty](https://librty.xyz/)
 - [Nico](https://nf.td/nico) | [BEB](https://beb.xyz)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Steph Harris](https://nf.td/steph) | [NF.TD](https://nf.td)
