@@ -29,10 +29,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Front-End
 
-- [Alysia Huggins](https://twitter.com/alysiatech)
-- [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09) | [LinkedIn](https://www.linkedin.com/in/ambareen-azam/)
+- [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
-- [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
+- [Valentina Oguka](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 - [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
 - [Tracy King, Heirloom](https://twitter.com/stack_tracy_)
 
@@ -43,19 +42,20 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Full-Stack
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
-- [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
-- [Olubusayo Amowe, Radicle](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
+- [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
+- [Olubusayo Amowe](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
 - [Paige Jones, Pinata](https://twitter.com/paige__eth) | [Github](https://github.com/paigexx)
-- [Sarah Benson](https://twitter.com/itssarahbenzo) | [Guava Tech](https://guavatech.io/) | [Website](https://www.sarahbenson.dev/)
-- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
+- [Sarah Benson](https://twitter.com/itssarahbenzo) | [Website](https://www.sarahbenson.dev/)
+- [Scarlett Spade](https://twitter.com/scarlett_spade) | [Website](https://pretti.media/#portfolio)
 - [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
 - [TechieTeee](https://twitter.com/TechieTeee) | [Github](https://github.com/TechieTeee)
 - [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
-- [Clara van Staden, Snowflake](https://twitter.com/ClaraVanStaden)
+- [Clara van Staden, Snowfork](https://twitter.com/ClaraVanStaden)
+- [Holly Grimm](https://twitter.com/hollygrimm) 
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 
 ### Smart Contracts
@@ -113,6 +113,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
+- [Devin Lewtan](https://twitter.com/DevinLewtan) | [Mad Realities](https://madrealities.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
@@ -199,6 +200,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Ellie Farrisi](https://twitter.com/elliefarrisi) | [Bello](https://www.bello.lol/)
 - [Juliette Chevalier, Aragon](https://twitter.com/_juliettech) | [Surge Women](https://www.surgewomen.io/)
 - [Ketaki Shriram](https://twitter.com/ketakishriram) | [Krikey](https://www.krikey.ai/)
+- [Krati Jain](https://twitter.com/kratijain) | [https://librty.xyz/]
 - [Nico](https://nf.td/nico) | [BEB](https://beb.xyz)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Steph Harris](https://nf.td/steph) | [NF.TD](https://nf.td)
@@ -269,6 +271,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Game Devs 🎮
 
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
+- [Krati Jain](https://twitter.com/kratijain) | [https://librty.xyz/]
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
@@ -290,5 +293,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Developer DAO](https://www.developerdao.com/)
 - [ETH Global](https://ethglobal.com/)
 - [H.E.R. DAO](https://www.her-dao.xyz/)
+- [womenhack](https://twitter.com/web3hubs)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
