@@ -50,13 +50,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Paige Jones, Pinata](https://twitter.com/paige__eth) | [Github](https://github.com/paigexx)
 - [Sarah Benson](https://twitter.com/itssarahbenzo) | [Website](https://www.sarahbenson.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Website](https://pretti.media/#portfolio)
-- [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
+- [Susmita Dey](https://twitter.com/its_SusmitaDey) | [Website](https://susmita-dey.vercel.app/)
 - [TechieTeee](https://twitter.com/TechieTeee) | [Github](https://github.com/TechieTeee)
 - [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
-- [Clara van Staden, Snowfork](https://twitter.com/ClaraVanStaden)
+- [Clara van Staden, Snowbridge](https://twitter.com/ClaraVanStaden)
 - [Holly Grimm, Astral](https://twitter.com/hollygrimm) 
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 
