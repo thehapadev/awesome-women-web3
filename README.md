@@ -25,10 +25,11 @@ This is a collaborative repo, so pass it forward! ‍💫
   - [Game Devs 🎮](#game-devs-)
   - [More than 50% Women Devs on a Team (Company List)](#more-than-50-women-devs-on-a-team-company-list)
 
-
 ## Web3 Developers
 
 ### Front-End
+
+- [Alysia Huggins](https://twitter.com/alysiatech)
 - [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09) | [LinkedIn](https://www.linkedin.com/in/ambareen-azam/)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ohrmo](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
@@ -38,7 +39,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
+
 ### Full-Stack
+- [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
@@ -47,6 +50,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Sarah Benson](https://twitter.com/itssarahbenzo) | [Guava Tech](https://guavatech.io/) | [Website](https://www.sarahbenson.dev/)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Susmita Dey](https://github.com/thehapadev/awesome-women-web3.git) | [Website](https://susmita-dey.vercel.app/)
+- [TechieTeee](https://twitter.com/TechieTeee) | [Github](https://github.com/TechieTeee)
 - [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
 
 ### Protocol Engineers
@@ -199,6 +203,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Xian Zheng, Ensō Collective](https://twitter.com/seeinplays)
 
 ## Growth & Ops 
+
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
@@ -246,7 +251,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
 - [Jessica Phan, Sound.xyz](https://twitter.com/ohjphan) 
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
+- [Kai Tran](https://twitter.com/uxdesignerkai) | [Website](https://www.uxdesignerkai.com/)
 - [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
+- [Liya Safina](https://twitter.com/imuzza) | [Website](http://www.liyasafina.com/)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Min Kim](https://twitter.com/imminkim) | [Airfoil](https://www.airfoil.studio/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
@@ -264,11 +271,14 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## More than 50% Women Devs on a Team (Company List)
 
+- [Arc Browser](https://arc.net/)
 - [BEB](https://beb.xyz/)
 - [Ensō Collective](https://www.ensocollective.xyz/)
 - [NF.TD](https://nf.td/) 
+- [Salsa](https://salsa.me/)
 
 ## Buidl Communities
+
 - [Blu3 DAO](https://www.blu3global.org/)
 - [Build Pr3tti](https://twitter.com/buildpr3tti)
 - [buildspace](https://buildspace.so/)
