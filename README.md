@@ -91,6 +91,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Emily Lin, Truffle](https://twitter.com/_emjlin)
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
+- [Krinza Momin, Ankr](https://twitter.com/kayprasla)
 - [Lisa A., Taiko](https://twitter.com/cryptobuilder_)
 - [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh) | [Website](https://tell.ie/nneoma/OuE8AVML6T3V)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
@@ -239,6 +240,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## UX Engineers & Designers
 
+- [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) | [Website](https://alysienne.com/)
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
@@ -253,7 +255,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
 - [Kai Tran](https://twitter.com/uxdesignerkai) | [Website](https://www.uxdesignerkai.com/)
 - [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
-- [Liya Safina](https://twitter.com/imuzza) | [Website](http://www.liyasafina.com/)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Min Kim](https://twitter.com/imminkim) | [Airfoil](https://www.airfoil.studio/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
@@ -268,6 +269,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
+- [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
 
 ## More than 50% Women Devs on a Team (Company List)
 
