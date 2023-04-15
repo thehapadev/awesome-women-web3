@@ -283,7 +283,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Game Devs 🎮
 
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
-- [Krati Jain](https://twitter.com/kratijain) | [Librty](https://www.librty.xyz/)
+- [Krati Jain](https://twitter.com/kratijain) | [Librty](https://librty.xyz/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
