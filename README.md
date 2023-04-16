@@ -106,6 +106,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh) | [Website](https://tell.ie/nneoma/OuE8AVML6T3V)
 - [Kelly Kim, Pinata](https://twitter.com/kellykim_xyz)
 - [Krystal Lee, Hedera](https://twitter.com/theekrystalle)
+- [Regina Wong, O(1) Labs](https://twitter.com/zkregi)
 - [Samina Codes, Thirdweb](https://twitter.com/saminacodes) | [Website](https://samina.codes/)
 - [Steph Orpilla, Polygon](https://twitter.com/0ceans404)
 - [Vanes Mercado, WalletConnect](https://twitter.com/_finessevanes)
@@ -148,9 +149,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Réka Medvecz](https://twitter.com/reka_eth) | [Guild](https://guild.xyz/)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
+- [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
-- [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 - [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
 - [Tricia Jose](https://twitter.com/triciajose) | [Casama](https://www.casama.xyz/)
@@ -229,6 +230,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
 - [Porter Geer, Dispatch](https://twitter.com/portergeer)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
+- [Zoé Meckbach, Phala Network](https://twitter.com/zoemcfox)
 
 ## Data Wizards 🪄
 
