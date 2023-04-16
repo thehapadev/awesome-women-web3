@@ -286,8 +286,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
 - [Krati Jain](https://twitter.com/kratijain) | [Librty](https://librty.xyz/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
-- [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
 - [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
+- [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
+- [Tanisha Vernekar](https://twitter.com/TanishaVernekar) | [website](https://tansi.itch.io/)
 
 ## More than 50% Women Devs on a Team (Company List)
 
