@@ -69,8 +69,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
 - [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
-### Securities & Discord Bots
-- [Ammy Maddie](https://twitter.com/AlphaSerpentis_) | [Github](https://github.com/AlphaSerpentis) | [Web3Baddies](https://www.web3baddies.com/)
+### Discord Bots
+- [Ammy Maddie](https://twitter.com/AlphaSerpentis_) | [Github](https://github.com/AlphaSerpentis)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 
 ## Creative Devs 🦄 
