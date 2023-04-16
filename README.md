@@ -69,6 +69,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
 - [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
+### Securities & Discord
+- [Ammy Maddie](https://twitter.com/AlphaSerpentis_) | [Github](https://github.com/AlphaSerpentis)
+- [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
+
 ## Creative Devs 🦄 
 - [Ana Howard](https://twitter.com/AnaArsonist) | [Website](https://www.anahoward.me/) | [CatGPT](https://catgpt.guru/)
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
