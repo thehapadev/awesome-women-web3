@@ -256,12 +256,13 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## UX Engineers & Designers
 
-- [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) | [Website](https://alysienne.com/)
+- [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) 
 - [Bianca Mikaila](https://twitter.com/biancamikaila) | [Website](https://bianca.digital/)
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
 - [Claudia Alban, Ensō Collective](https://twitter.com/niftyclaudia)
 - [Dee Elise](https://twitter.com/dthinksweb3) | [DesignerDAO](https://www.designer-dao.xyz/)
+- [Ekaterina Malykh](https://twitter.com/malykh_katya) | [Wednesday Studio](https://www.wednesdaystudio.co/)
 - [Eleanor Hofstedt, XMTP](https://twitter.com/eleanorhof_) 
 - [Georgia Rakusen](https://twitter.com/G_Rak) | [Website](https://y.at/%F0%9F%90%8B%F0%9F%8D%84%F0%9F%9A%80) | [OpenUX](https://twitter.com/OpenUX_xyz)
 - [Gresshaa Mehta, Metropolis](https://twitter.com/gresshaa) | [Website](https://tinyurl.com/gresshaamehtadesign)
