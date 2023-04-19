@@ -31,6 +31,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
+- [Ire Aderinokun, Helicarrier](https://twitter.com/ireaderinokun) | [Website](https://ireaderinokun.com/)
 - [Valentina Oguka](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 - [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
 - [Tracy King, Heirloom](https://twitter.com/stack_tracy_)
@@ -100,6 +101,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Debbie Ly, Lit Protocol](https://twitter.com/deb_i_deb)
 - [Elan Halpern, Alchemy](https://twitter.com/0xelan)
 - [Emily Lin, Truffle](https://twitter.com/_emjlin)
+- [Gnana Lakshmi, Starkware](https://twitter.com/gyanlakshmi) | [Website](https://www.gyanlakshmi.net/) | [Phoenix Guild](https://twitter.com/PhoenixGuildHQ)
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
 - [Krinza Momin, Ankr](https://twitter.com/kayprasla)
@@ -229,6 +231,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+- [Meg Lister](https://twitter.com/MegLister) | [Website](https://meglister.com/)
 - [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
 - [Porter Geer, Dispatch](https://twitter.com/portergeer)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
