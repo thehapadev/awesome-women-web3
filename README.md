@@ -43,7 +43,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
-- [Jen, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
+- [Jen Gautz, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Kendyl Key, Decentology](https://twitter.com/KendylCodes)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
