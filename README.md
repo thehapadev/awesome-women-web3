@@ -47,7 +47,9 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jen Gautz, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Kendyl Key, Decentology](https://twitter.com/KendylCodes)
+- [Mary Zou, Mirror](https://twitter.com/cryyram)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
+- [Nima Ahmed, Filecoin](https://twitter.com/myweb3journey)
 - [Niveda Krishnamoorthy, Alchemy](https://twitter.com/0xNiveda)
 - [Olubusayo Amowe](https://twitter.com/AmoweO) | [Github](https://github.com/amoweolubusayo)
 - [Paige Jones, Pinata](https://twitter.com/paige__eth) | [Github](https://github.com/paigexx)
@@ -124,6 +126,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Caitlin Leksana](https://twitter.com/0xCaitlin) | [Carma](https://www.carma.community/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
+- [Charlotte Keys](https://twitter.com/Charlotte_Keys) | [joyshare](https://www.joyshare.io/)
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
 - [Devin Lewtan](https://twitter.com/DevinLewtan) | [Mad Realities](https://madrealities.xyz/)
@@ -193,6 +196,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Erika Gayle, Tials](https://twitter.com/erikagaylec) | [Surge Women](https://twitter.com/surge_women) | [Women Making Waves](https://twitter.com/WomenMakingWave)
 - [Hiromi Ouchi](https://twitter.com/hrm_o25) | [Green Pill Japan](https://twitter.com/hrm_o25)
 - [Jac Vaca, Polygon Labs](https://twitter.com/jacqvaca)
+- [Jade S., HiFi Labs](https://twitter.com/roundpotatocat)
 - [Kamala Alcantara](https://twitter.com/KamalaAlcantara) | [Women Who Web3](https://www.coindesk.com/podcasts/women-who-web3/)
 - [Kiana Pirouz, Backdrop](https://twitter.com/kianamoods) | [Website](https://www.kianamoods.xyz/)
 - [Latasha Alcindor, Zora](https://twitter.com/callmelatasha) | [Zoratopia](https://twitter.com/zoratopia)
@@ -212,6 +216,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Founder CTO & Tech Leads
 
+- [Aishwarya Kamraj](https://twitter.com/aishkamraj) | [joyshare](https://www.joyshare.io/)
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://www.privy.io/)
 - [Carrie Kellar](https://twitter.com/web3princess) | [Baxus](https://www.baxus.co/)
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
