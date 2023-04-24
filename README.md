@@ -38,9 +38,10 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Back-End
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
+- [Elizabeth, Chainsafe](https://twitter.com/elizabethereum) | [Github](https://github.com/noot)
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 
-### Full-Stack
+### Full-Stack & Founding Engineers
 - [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
@@ -58,6 +59,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Susmita Dey](https://twitter.com/its_SusmitaDey) | [Website](https://susmita-dey.vercel.app/)
 - [TechieTeee](https://twitter.com/TechieTeee) | [Github](https://github.com/TechieTeee)
 - [Tina Zheng, Uniswap](https://twitter.com/patagucci_girl)
+- [Tracy, Deform](https://twitter.com/0xtracy)
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
@@ -68,6 +70,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
+- [Ciara Maria, Whitelabel](https://twitter.com/themariaverse) | [Website](https://www.ciaramaria.xyz/)
 - [Xuannu, Crypto Coven](https://twitter.com/xuannu_eth)
 
 ### zkProofs (Cryptography)
@@ -156,6 +159,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
 - [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
+- [Rachel, xCollective](https://twitter.com/heyheyitsRP) | [Sublayer](https://www.sublayer.com/)
+- [Rebecca Liao](https://twitter.com/beccaliao) | [Saga](https://www.saga.xyz/)
 - [Réka Medvecz](https://twitter.com/reka_eth) | [Guild](https://guild.xyz/)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
 - [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
@@ -176,7 +181,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Melonie Brown, Blu3 DAO](https://twitter.com/blessedmelo_) | [Disruptor DAO](https://disruptordao.io/) | [Black Leaders DAO](https://blackleadersdao.webflow.io/)
 - [Moojan Asghari](https://twitter.com/MoojanAsghari) | [Thousand Faces](https://www.thousandfaces.art/)
 - [Naomie Halioua](https://www.linkedin.com/in/naomiehalioua/),[ Phoebe Beigbeder](https://twitter.com/BeigbederPhoebe) | [Women in Web3](https://www.womeninweb3paris.com/)
-- [Natasha Hoskins](https://twitter.com/natashaghoskins) | [Boys Club](https://www.boysclub.vip/)
+- [Natasha Hoskins](https://twitter.com/natashaghoskins), [Deana Burke](https://twitter.com/medeana) | [Boys Club](https://www.boysclub.vip/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks) | [SonR](https://twitter.com/SonR_app)
