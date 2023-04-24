@@ -66,10 +66,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
+- [Anika Raghuvanshi, Base](https://twitter.com/AnikaRaghu)
 - [Anna Carroll, Nomad](https://twitter.com/annascarroll)
 - [Clara van Staden, Snowbridge](https://twitter.com/ClaraVanStaden)
 - [Elizabeth, Chainsafe](https://twitter.com/elizabethereum) | [Github](https://github.com/noot)
 - [Holly Grimm, Astral](https://twitter.com/hollygrimm) 
+- [Sanaz Taheri, Celestia](https://twitter.com/sanaz2016) | [Github](https://github.com/staheri14)
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
 - [Yasmin Roumie, Hook](https://twitter.com/YasmeenRoumie) | [Website](https://yasmeenroumie.com/)
 
@@ -77,6 +79,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Ciara Maria, Whitelabel](https://twitter.com/themariaverse) | [Website](https://www.ciaramaria.xyz/)
 - [Natalie Chin, Trail of Bits](https://twitter.com/0xicingdeath)
+- [Sarah Reynolds, Uniswap](https://twitter.com/saraareynolds)
 - [Xuannu, Crypto Coven](https://twitter.com/xuannu_eth)
 
 ### zkProofs (Cryptography)
@@ -138,7 +141,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Charlotte Keys](https://twitter.com/Charlotte_Keys) | [Joyshare](https://www.joyshare.io/)
 - [Dana Gibber](https://twitter.com/danagibber) | [Flowcarbon](https://www.flowcarbon.com/)
 - [Dani Loftus](https://twitter.com/danidoesnotxist) | [Draup](https://www.draup.xyz/)
-- [Devin Lewtan](https://twitter.com/DevinLewtan) | [Mad Realities](https://madrealities.xyz/)
+- [Devin Lewtan](https://twitter.com/DevinLewtan), [Alice Ma](https://twitter.com/alicemama15) | [Mad Realities](https://madrealities.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Emily Furlong](https://twitter.com/emthemaker) | [Otterspace](https://www.otterspace.xyz/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
@@ -165,6 +168,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
 - [Nadia Eldeib](https://twitter.com/nseldeib) | [Ethos Wallet](https://ethoswallet.xyz/)
+- [Nitya Subramanian](https://twitter.com/_nityas) | [Capsule](https://usecapsule.com/)
+- [Omoju Miller](https://twitter.com/omojumiller) | [Fimio](https://fimio.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
 - [Rachel, xCollective](https://twitter.com/heyheyitsRP) | [Sublayer](https://www.sublayer.com/)
 - [Rebecca Liao](https://twitter.com/beccaliao) | [Saga](https://www.saga.xyz/)
@@ -176,6 +181,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
 - [Tara Fung](https://twitter.com/nonfungibletara) | [Co:Create](https://t.co/ZDAjsZ98cL)
 - [Tegan Kline](https://twitter.com/theklineventure) | [Edge & Node](https://edgeandnode.com/) | [The Graph](https://thegraph.com/)
+- [Tina He](https://twitter.com/fkpxls) | [Station](https://www.station.express/)
 - [Tricia Jose](https://twitter.com/triciajose) | [Casama](https://www.casama.xyz/)
 
 ## Ecosystem Founders ♻️ 
@@ -276,6 +282,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## DeFi Founders
 
 - [Alana Podrx](https://twitter.com/AlanaPodrx) | [Eve Wealth](https://twitter.com/evewealthhq)
+- [Alexis Gauba](https://twitter.com/alexisgauba) | [Opyn](https://www.opyn.co/) | [She256](https://she256.org/)
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
 - [Bette Chen](https://twitter.com/bettechentt) | [Acala](https://acala.network/)
 - [Calanthia Mei](https://twitter.com/calanthiaaa) | [Masa](https://www.masa.finance/)
