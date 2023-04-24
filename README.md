@@ -84,6 +84,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Xuannu, Crypto Coven](https://twitter.com/xuannu_eth)
 
 ### zkProofs (Cryptography)
+- [Anna Rose](https://twitter.com/AnnaRRose) | [ZKValidator](https://twitter.com/ZKValidator)
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
 - [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
@@ -93,11 +94,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Creative Devs 🦄 
 - [Ana Howard](https://twitter.com/AnaArsonist) | [Website](https://www.anahoward.me/) | [CatGPT](https://catgpt.guru/)
+- [Angelica Turla, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
 - [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://nf.td/hapa) | [Github](https://github.com/jennyriess)
-- [Angelica Turla, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
+- [Kristen Cabrera, Foundation](https://twitter.com/kris10cabrera) | [Website](https://www.kristencabrera.com/)
 - [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
 - [Sharon Shea, Immutable]() | [Website](https://sharonsheah.webflow.io/) | [Github](https://github.com/sharonsheah)
 
