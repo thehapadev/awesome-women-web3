@@ -30,6 +30,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Front-End
 
 - [Ambareen Azam](https://twitter.com/AzamAmbareen) | [Website](https://ambareen.netlify.app/) | [Github](https://github.com/Ambareen09)
+- [Giselle Chacon](https://twitter.com/Gi_Chacon) | [Cryptonikas](https://twitter.com/CryptonikasDao)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ire Aderinokun](https://twitter.com/ireaderinokun) | [Website](https://ireaderinokun.com/)
 - [Valentina Oguka](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
@@ -43,6 +44,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Full-Stack & Founding Engineers
 - [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
+- [Courtney Jensen, Solana](https://twitter.com/Explorer_Geek) | [Github](https://github.com/explorergeek)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
 - [Jen Gautz, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
@@ -69,6 +71,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Elizabeth, Chainsafe](https://twitter.com/elizabethereum) | [Github](https://github.com/noot)
 - [Holly Grimm, Astral](https://twitter.com/hollygrimm) 
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
+- [Yasmin Roumie, Hook](https://twitter.com/YasmeenRoumie) | [Website](https://yasmeenroumie.com/)
 
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
@@ -167,6 +170,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Rebecca Liao](https://twitter.com/beccaliao) | [Saga](https://www.saga.xyz/)
 - [Réka Medvecz](https://twitter.com/reka_eth) | [Guild](https://guild.xyz/)
 - [Richa Joshi](https://twitter.com/Riijo) | [Push Protocol](https://push.org/)
+- [Sandy Peng](https://twitter.com/SandyPeng1) | [Scroll](https://scroll.io/)
 - [Sania García](https://twitter.com/cyberkwin) | [Geo](https://twitter.com/mapsyourway)
 - [Shreya Murthy](https://twitter.com/shreyamurthy) | [Partiful](https://partiful.com/)
 - [Sneha Mishra](https://twitter.com/sneha_bb) | [Social3](https://social3.club/)
