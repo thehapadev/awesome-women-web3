@@ -47,6 +47,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
 - [Jen Gautz, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
+- [Kara Graysen](https://twitter.com/karagraysen) | [Website](https://pigeon.art/)
 - [Kendyl Key, Decentology](https://twitter.com/KendylCodes)
 - [Mary Zou, Mirror](https://twitter.com/cryyram)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
@@ -63,6 +64,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Protocol Engineers
 - [Alice Henshaw, Uniswap](https://twitter.com/hensha256)
+- [Anna Carroll, Nomad](https://twitter.com/annascarroll)
 - [Clara van Staden, Snowbridge](https://twitter.com/ClaraVanStaden)
 - [Elizabeth, Chainsafe](https://twitter.com/elizabethereum) | [Github](https://github.com/noot)
 - [Holly Grimm, Astral](https://twitter.com/hollygrimm) 
@@ -71,6 +73,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### Smart Contracts
 - [Desi McAdam](https://github.com/desi) | [Linkedin](https://www.linkedin.com/in/desimcadam)
 - [Ciara Maria, Whitelabel](https://twitter.com/themariaverse) | [Website](https://www.ciaramaria.xyz/)
+- [Natalie Chin, Trail of Bits](https://twitter.com/0xicingdeath)
 - [Xuannu, Crypto Coven](https://twitter.com/xuannu_eth)
 
 ### zkProofs (Cryptography)
@@ -149,6 +152,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Katerina Carbonell](https://twitter.com/katerinabohlec) | [TogetherCrew](https://togethercrew.com/)
 - [Kathleen Breitman](https://twitter.com/breitwoman) | [Tezos](https://tezos.com/)
 - [Lana Dingwall](https://twitter.com/lanzdingz) | [Astrid Park](https://www.astridpark.xyz/) 
+- [Laura Jaramillo](https://twitter.com/LauraTJD) | [Sona](https://sona.stream/)
 - [Leanne Bats](https://twitter.com/leannebats) | [Tres Cool](https://www.trescool.xyz/)
 - [Maggie Love](https://twitter.com/maggielove_) | [W3BCloud](https://w3bcloud.com/)
 - [Maria Paula](https://twitter.com/mptherealmvp) | [JPG](https://jpg.space/)
@@ -239,6 +243,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Growth & Ops 
 
 - [Aditi Sriram, Capsule](https://twitter.com/adeets_22) | [Website](https://aditi.is/)
+- [Camilla McFarland, Mojito](https://twitter.com/camillionaire_m)
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
