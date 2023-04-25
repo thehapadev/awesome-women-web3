@@ -89,6 +89,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### zkProofs (Cryptography)
 - [Anna Rose](https://twitter.com/AnnaRRose) | [ZKValidator](https://twitter.com/ZKValidator)
+- [Arantxa Zapico, Ethereum](https://twitter.com/arantxazapico)
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
 - [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
