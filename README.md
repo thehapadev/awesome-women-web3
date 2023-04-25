@@ -139,6 +139,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
+- [Asta Li](https://twitter.com/asta_li) | [Privy](https://privy.io/)
 - [Barbara Liau](https://twitter.com/barbaraliau) | [Nomad](https://www.nomad.xyz/)
 - [Caitlin Leksana](https://twitter.com/0xCaitlin) | [Carma](https://www.carma.community/)
 - [Catherine Chang](https://twitter.com/unhappiimochii) | [Deform](https://www.deform.cc/)[ + Mint Kudos](https://mintkudos.xyz/)
