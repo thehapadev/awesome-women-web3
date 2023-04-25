@@ -44,6 +44,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ### Full-Stack & Founding Engineers
 - [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
+- [Christina Polyukh, Astrid Park](https://twitter.com/xt1na_) | [Blu3 DAO](https://www.blu3dao.com/)
 - [Courtney Jensen, Solana](https://twitter.com/Explorer_Geek) | [Github](https://github.com/explorergeek)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
 - [Isabella Smallcombe, Zora](https://twitter.com/iismallcombe)
@@ -202,6 +203,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Naomie Halioua](https://www.linkedin.com/in/naomiehalioua/),[ Phoebe Beigbeder](https://twitter.com/BeigbederPhoebe) | [Women in Web3](https://www.womeninweb3paris.com/)
 - [Natasha Hoskins](https://twitter.com/natashaghoskins), [Deana Burke](https://twitter.com/medeana) | [Boys Club](https://www.boysclub.vip/)
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
+- [Risa](https://twitter.com/risacan_eth), [Riho](https://twitter.com/rlho_eth) | [Creator Studio, JP](https://www.cr3ators.studio/en)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks) | [SonR](https://twitter.com/SonR_app)
 - [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
@@ -267,6 +269,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Meg Lister](https://twitter.com/MegLister) | [Website](https://meglister.com/)
 - [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
 - [Porter Geer, Dispatch](https://twitter.com/portergeer)
+- [Shannon Wells, Livepeer](https://twitter.com/shanvasion)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
 - [Zoé Meckbach, Phala Network](https://twitter.com/zoemcfox)
 
@@ -296,6 +299,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jenna Peterson](https://twitter.com/jenna_jennamp) | [Open DeFi](https://www.opendefi.xyz/)
 - [Kristi Põldsam](https://twitter.com/kpoldsam) | [Sommelier](https://www.sommelier.finance/)
 - [Li Jin](https://twitter.com/ljin18) | [Variant Fund](https://variant.fund/)
+- [Linda Xie](https://twitter.com/ljxie) | [Scalar Capital](https://scalar.capital/)
 - [Maggie Love](https://twitter.com/maggielove_) | [SheFi](https://twitter.com/She__Fi)
 - [Mona El Isa](https://twitter.com/Mona_El_Isa) | [Avantegarde](https://avantgarde.finance/)
 - [Nikki Varanasi](https://twitter.com/NikkiVaranasi) | [Staax](https://staaxapp.com/)
