@@ -108,6 +108,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Kristen Cabrera, Foundation](https://twitter.com/kris10cabrera) | [Website](https://www.kristencabrera.com/)
 - [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
 - [Sharon Shea, Immutable]() | [Website](https://sharonsheah.webflow.io/) | [Github](https://github.com/sharonsheah)
+- [Tigris Li, Lychee](https://twitter.com/tigrisli) | [Website](https://tigris.li/)
 
 ## Developer Advocates 🥑
 
