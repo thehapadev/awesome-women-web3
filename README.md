@@ -43,7 +43,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Lara Jeftic, prev. Zora](https://twitter.com/larajeftic) | [Linkedin](https://www.linkedin.com/in/lara-jeftic/)
 
 ### Full-Stack & Founding Engineers
-- [Akhila Raju](https://twitter.com/akhilasraju) | [Website](http://akhilaraju.com/)
+- [Akhila Raju, Dune](https://twitter.com/akhilasraju) | [Github](https://github.com/akhila-raju)
 - [Christina Polyukh, Astrid Park](https://twitter.com/xt1na_) | [Blu3 DAO](https://www.blu3dao.com/)
 - [Courtney Jensen, Solana](https://twitter.com/Explorer_Geek) | [Github](https://github.com/explorergeek)
 - [Erika Nguyen](https://twitter.com/erikamojitweets) | [Github](https://github.com/erikamoji)
@@ -109,6 +109,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Sarah Zhang, Lit](https://twitter.com/haegeez) | [Website](https://www.sarahz.dev/)
 - [Sharon Shea, Immutable]() | [Website](https://sharonsheah.webflow.io/) | [Github](https://github.com/sharonsheah)
 - [Tigris Li, Lychee](https://twitter.com/tigrisli) | [Website](https://tigris.li/)
+- [Yining Shi, Runway](https://twitter.com/yining_shi) | [Website](http://1023.io/)
 
 ## Developer Advocates 🥑
 
