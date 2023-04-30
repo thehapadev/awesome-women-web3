@@ -146,6 +146,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
+- [Andrea Siegel](https://twitter.com/AndreaSiegel20) | [Mavion](https://mavion.world/)
 - [Anne George](https://twitter.com/AnnaMSGeorge) | [CoW Protocol](https://cow.fi/)
 - [Asta Li](https://twitter.com/asta_li) | [Privy](https://privy.io/)
 - [Barbara Liau](https://twitter.com/barbaraliau) | [Nomad](https://www.nomad.xyz/)
@@ -188,6 +189,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Nitya Subramanian](https://twitter.com/_nityas) | [Capsule](https://usecapsule.com/)
 - [Omoju Miller](https://twitter.com/omojumiller) | [Fimio](https://fimio.xyz/)
 - [Plum](https://twitter.com/Plumferno) | [Server Forge](https://twitter.com/Server_Forge)
+- [Piril Akay](https://twitter.com/blockheim) | [Kairos](https://kairos.art/) 
 - [Rachel, xCollective](https://twitter.com/heyheyitsRP) | [Sublayer](https://www.sublayer.com/)
 - [Rebecca Liao](https://twitter.com/beccaliao) | [Saga](https://www.saga.xyz/)
 - [Réka Medvecz](https://twitter.com/reka_eth) | [Guild](https://guild.xyz/)
@@ -275,6 +277,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Growth & Ops 
 
 - [Aditi Sriram, Capsule](https://twitter.com/adeets_22) | [Website](https://aditi.is/)
+- [Bianca Pham](https://twitter.com/3iancapham) | [Hypermint](https://hypermint.com/)
 - [Camilla McFarland, Mojito](https://twitter.com/camillionaire_m)
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
@@ -283,6 +286,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Masha Healy, Disco](https://twitter.com/MashaHealy)
 - [Meg Lister](https://twitter.com/MegLister) | [Website](https://meglister.com/)
 - [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
+- [Patti Hausman, Friends With Benefits](https://twitter.com/rattymouseman)
 - [Porter Geer, Dispatch](https://twitter.com/portergeer)
 - [Shannon Wells, Livepeer](https://twitter.com/shanvasion)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
