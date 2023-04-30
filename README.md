@@ -91,6 +91,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ### zkProofs (Cryptography)
 - [Anna Rose](https://twitter.com/AnnaRRose) | [ZKValidator](https://twitter.com/ZKValidator)
 - [Arantxa Zapico, Ethereum](https://twitter.com/arantxazapico)
+- [Cathie Yun, Google](https://twitter.com/cathieyun)
 - [Lea Schmitt, Scroll](https://twitter.com/_schmitted)
 - [Vanishree Rao, IOHK](https://twitter.com/vanishree_rao)
 
@@ -180,6 +181,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maria Paula](https://twitter.com/mptherealmvp) | [JPG](https://jpg.space/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
+- [Marina Romashko](https://twitter.com/BIdeaLab) | [HeyLayer](https://heylayer.com/)
 - [Maya Brooks](https://twitter.com/mayatalkstech) | [Privy Labs](https://privylabs.xyz/)
 - [Marina Guryeva](https://www.linkedin.com/in/marina-guryeva-1390a03b/) | [Neon Labs](https://neon-labs.org/)
 - [Melissa Zhang](https://twitter.com/MelissaZhang13) | [Bonfire](https://www.bonfire.xyz/)
@@ -283,6 +285,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+- [Madisen Taylor, Hugging Face](https://twitter.com/madisenxtaylor)
 - [Masha Healy, Disco](https://twitter.com/MashaHealy)
 - [Meg Lister](https://twitter.com/MegLister) | [Website](https://meglister.com/)
 - [Misha Deville, Mailchain](https://twitter.com/MishaDV_)
@@ -300,6 +303,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Helena Love](https://twitter.com/0xhelena_eth) | [Website](https://nf.td/0xhelena)
 - [Karina Qian, OpenSea](https://twitter.com/karinadoteth) | [Dashboard](https://dune.com/kqian)
 - [Merve Noyan, Hugging Face](https://twitter.com/mervenoyann) | [Website](https://merveenoyan.github.io/me/)
+- [Polina Kazakova, Hugging Face](https://twitter.com/polinaeterna)
 
 ## Legal 🕊️
 
@@ -346,6 +350,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jessica Phan, Sound.xyz](https://twitter.com/ohjphan) 
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
 - [Kai Tran](https://twitter.com/uxdesignerkai) | [Website](https://www.uxdesignerkai.com/)
+- [Kathy, OP Labs](https://twitter.com/pifafu) | [Website](https://www.pifafu.com/)
 - [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
 - [Marjorie Doucet, Pinata](https://twitter.com/doucet_marjorie)
 - [Melissa Neira, Gitcoin](https://twitter.com/meli_irl) | [Website](https://www.melissaneira.com/)
