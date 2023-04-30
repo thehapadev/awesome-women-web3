@@ -177,6 +177,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maria Paula](https://twitter.com/mptherealmvp) | [JPG](https://jpg.space/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
+- [Marina Guryeva](https://www.linkedin.com/in/marina-guryeva-1390a03b/) | [NEON Labs](https://neon-labs.org/)
 - [Melissa Zhang](https://twitter.com/MelissaZhang13) | [Bonfire](https://www.bonfire.xyz/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
 - [Miya Zhang](https://twitter.com/miyahzhang) | [POMP](https://www.gotpomp.com/)
