@@ -170,6 +170,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Julienne Worring](https://twitter.com/JulienneWorring) | [Ensō Collective](https://www.ensocollective.xyz/) 
 - [Katerina Carbonell](https://twitter.com/katerinabohlec) | [TogetherCrew](https://togethercrew.com/)
 - [Kathleen Breitman](https://twitter.com/breitwoman) | [Tezos](https://tezos.com/)
+- [Kirsten Pomales](https://twitter.com/kirstenrpomales) | [TalentLayer](https://www.talentlayer.org/)
 - [Lana Dingwall](https://twitter.com/lanzdingz) | [Astrid Park](https://www.astridpark.xyz/) 
 - [Laura Jaramillo](https://twitter.com/LauraTJD) | [Sona](https://sona.stream/)
 - [Lauren Dorman](https://twitter.com/LaurenDorman) | [Metalabel](https://www.metalabel.xyz/)
@@ -178,6 +179,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Maria Paula](https://twitter.com/mptherealmvp) | [JPG](https://jpg.space/)
 - [Mai Akiyoshi](https://twitter.com/mai_on_chain) | [HeyMint](https://heymint.xyz/) 
 - [Maika Isogawa](https://twitter.com/maikaisogawa) | [Webacy](https://www.webacy.com/)
+- [Maya Brooks](https://twitter.com/mayatalkstech) | [Privy Labs](https://privylabs.xyz/)
 - [Marina Guryeva](https://www.linkedin.com/in/marina-guryeva-1390a03b/) | [Neon Labs](https://neon-labs.org/)
 - [Melissa Zhang](https://twitter.com/MelissaZhang13) | [Bonfire](https://www.bonfire.xyz/)
 - [Mika Reyes](https://twitter.com/__mikareyes) | [Parallax](https://www.parallax.to/)
@@ -216,6 +218,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Radica Gordhandhas](https://twitter.com/Radica_g) | [womenhack](https://twitter.com/web3hubs)
 - [Risa](https://twitter.com/risacan_eth), [Riho](https://twitter.com/rlho_eth) | [Creator Studio, JP](https://www.cr3ators.studio/en)
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
+- [Sheila Marcelo](https://twitter.com/smarcelo) | [Proof of Learn](https://www.proofoflearn.io/)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks) | [SonR](https://twitter.com/SonR_app)
 - [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
 
