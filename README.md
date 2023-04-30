@@ -342,6 +342,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Helen Zhou](https://twitter.com/helnzhou) | [Galileo AI](https://www.usegalileo.ai/)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Jaclyn Lenee](https://twitter.com/jaclynlenee) | [Portfolio](https://www.jaclynlenee.com/) | [Web3Designers](https://www.web3designers.org/)
+- [Jessica Chang, Gallery](https://twitter.com/jchangsta) | [Website](https://jchang.design/)
 - [Jessica Phan, Sound.xyz](https://twitter.com/ohjphan) 
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
 - [Kai Tran](https://twitter.com/uxdesignerkai) | [Website](https://www.uxdesignerkai.com/)
