@@ -371,10 +371,12 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Game Devs 🎮
 
 - [Alix Gallardo](https://twitter.com/agnamihira) | [Verza](https://verza.io/)
+- [Helen Dong](https://twitter.com/heyhelendong) | [Website](https://teambarnona.itch.io/wake-up)
 - [Krati Jain](https://twitter.com/kratijain) | [Librty](https://librty.xyz/)
 - [Mariam Nusrat](https://twitter.com/gamingfordev) | [Breshna](https://breshna.io/)
 - [Pluto, Ryu Games](https://twitter.com/pluto_04) | [Creators Studio](https://www.cr3ators.studio/en)
 - [Shanu Joshi](https://twitter.com/Shanu12Joshi) | [Lync](https://lync.world/)
+- [Talon Dragon, Alchemy](https://twitter.com/talondragon000) | [Newb3.0 RPG](https://twitter.com/newb3_0)
 - [Tanisha Vernekar](https://twitter.com/TanishaVernekar) | [Website](https://tansi.itch.io/)
 
 ## More than 50% Women Devs on a Team (Company List)
