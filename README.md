@@ -33,6 +33,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Giselle Chacon](https://twitter.com/Gi_Chacon) | [Cryptonikas](https://twitter.com/CryptonikasDao)
 - [Grace Wang, Salsa](https://twitter.com/gracew09) 
 - [Ire Aderinokun](https://twitter.com/ireaderinokun) | [Website](https://ireaderinokun.com/)
+- [Madalina Raicu, Vega Protocol](https://twitter.com/made_raicu) 
 - [Valentina Oguka](https://twitter.com/ooh_jhay) | [Website](https://orhmo.github.io/)
 - [Ophy Boamah](https://twitter.com/ophyboamah) | [Website](https://codehemaa.com/)
 - [Tracy King, Heirloom](https://twitter.com/stack_tracy_)
@@ -116,6 +117,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Abru Zucchi, Fleek](https://twitter.com/abruzuc)
 - [Albiona Hoti, zkSync](https://twitter.com/albicodes)
+- [Anett Rolikova, Hyperlane](https://twitter.com/anettrolikova?)
 - [Anna Alexa, Celo](https://twitter.com/AnnaAlexaK)
 - [Angie Jones, TBD@Block](https://twitter.com/techgirl1908) 
 - [Bianca Buzea, Balancer](https://twitter.com/buzea200) | [Dev Rel Uni](https://www.devreluni.com/)
@@ -131,6 +133,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Gnana Lakshmi, Starkware](https://twitter.com/gyanlakshmi) | [Website](https://www.gyanlakshmi.net/) | [Phoenix Guild](https://twitter.com/PhoenixGuildHQ)
 - [Jackie Z., Dune](https://twitter.com/agaperste)
 - [Jamie Chicago, Reservoir](https://twitter.com/jamiechicago312) | [Website](https://jamiechicago.com)
+- [Jess Glover, AAVE](https://twitter.com/0xjessglover) 
 - [Krinza Momin, Ankr](https://twitter.com/kayprasla)
 - [Lisa A., Taiko](https://twitter.com/cryptobuilder_)
 - [Nneoma Kanu, NEAR](https://twitter.com/nneomack) | [COLDS Collective](https://coldscollective.io/21UKysUj5SYh) | [Website](https://tell.ie/nneoma/OuE8AVML6T3V)
@@ -338,6 +341,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## UX Engineers & Designers
 
+- [Aaliyah, Apeair Creative](https://twitter.com/ApeairCreative) | [Website](https://apeaircreative.notion.site/apeaircreative/Welcome-to-Apeair-Creative-c50649b24f834c87ae0544f773fac2ab)
 - [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) 
 - [Bianca Mikaila](https://twitter.com/biancamikaila) | [Website](https://bianca.digital/)
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
@@ -364,6 +368,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Miya Zhang](https://twitter.com/miyahzhang) | [UX Designathon](https://uxdesignathon.com/)
 - [Neesh Chaudhary](https://twitter.com/losingmyego) | [LOSINGMYEGO](https://www.losingmyego.studio/)
 - [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
+- [Sasha Tanase](https://twitter.com/sasha_tanase) | [Web3 UX](https://live.web3ux.org/) | [Github](https://github.com/threshold-network/UX-User-Research)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
 - [Yana Sosna, ZORA](https://twitter.com/yanasosna) | [Website](https://www.yanasosna.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
