@@ -241,6 +241,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Angelina Russell, Alchemy](https://twitter.com/angelinarusse)
 - [Annee Park](https://twitter.com/f3annee) | [F3 Ventures](https://www.thef3foundation.org/)
 - [Ashley Caines, Decent DAO](https://twitter.com/ashmcai) | [The DAO Society](https://twitter.com/thedaosociety)
+- [Aya Miyaguchi, Ethereum](https://twitter.com/AyaMiyagotchi) 
 - [Chancy Wozow, Crypto Witch Club](https://twitter.com/chancysofancy)
 - [Chase Chapman, Metropolis](https://twitter.com/chaserchapman) | [Podcast](https://www.othersidepod.xyz/)
 - [Diana Chen, Rehash DAO](https://twitter.com/ddwchen) | [Podcast](https://www.rehashweb3.xyz/)
