@@ -105,6 +105,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Angelica Turla, Sound.xyz](https://twitter.com/0xgel) | [Website](https://www.gelica.xyz/)
 - [Caroline Kabat, HiFi Labs](https://twitter.com/carolinekabat) | [Github](https://github.com/carolinekabat)
 - [Dani Passos, Hashnode](https://twitter.com/danizeres) | [Website](https://danizeres.dev/)
+- [Jaclyn, Contrary](https://twitter.com/straightupjac) | [Website](https://www.straightupjac.xyz/) | [Github](https://github.com/straightupjac)
 - [Jenny Riess](https://twitter.com/thehapadev) | [Website](https://nf.td/hapa) | [Github](https://github.com/jennyriess)
 - [Haunani Pao](https://twitter.com/HaunaniPao) | [UX Auckland](https://twitter.com/UXAuckland)
 - [Kristen Cabrera, Foundation](https://twitter.com/kris10cabrera) | [Website](https://www.kristencabrera.com/)
