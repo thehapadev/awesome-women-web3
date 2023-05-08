@@ -230,6 +230,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Scarlett Spade](https://twitter.com/scarlett_spade) | [Build Pr3tti](https://buildpr3tti.xyz) | [Website](https://pretti.media/#portfolio)
 - [Sheila Marcelo](https://twitter.com/smarcelo) | [Proof of Learn](https://www.proofoflearn.io/)
 - [Tracy Bowen](https://twitter.com/Onallee) | [HER D.A.O.](https://twitter.com/_HerDAO) | [HerHacks](https://twitter.com/_herhacks) | [SonR](https://twitter.com/SonR_app)
+- [Vriti Saraf](https://twitter.com/VritiSaraf) | [k20 Educators](https://www.k20educators.com/) | [Ed3DAO](https://twitter.com/Ed3DAO)
 - [Zoe Faircloth](https://twitter.com/ZoeCatherineF) | [Crypto Girls Club](https://twitter.com/CryptoGirlsClub)
 
 ## Community Leaders
@@ -293,6 +294,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
+- [Lisa Cuesta Bunin, Aztec](https://twitter.com/lisacuesta)
 - [Madisen Taylor, Hugging Face](https://twitter.com/madisenxtaylor)
 - [Masha Healy, Disco](https://twitter.com/MashaHealy)
 - [Meg Lister](https://twitter.com/MegLister) | [Website](https://meglister.com/)
@@ -322,6 +324,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 - [Alana Podrx](https://twitter.com/AlanaPodrx) | [Eve Wealth](https://twitter.com/evewealthhq)
 - [Alexis Gauba](https://twitter.com/alexisgauba) | [Opyn](https://www.opyn.co/) | [She256](https://she256.org/)
+- [Aya Kantorovich](https://twitter.com/aya_kantor) | [Fractal](https://www.fractalprotocol.org/)
 - [Bec Jones](https://twitter.com/becejones) | [Clutch Wallet](https://www.joinclutch.xyz/)
 - [Bette Chen](https://twitter.com/bettechentt) | [Acala](https://acala.network/)
 - [Calanthia Mei](https://twitter.com/calanthiaaa) | [Masa](https://www.masa.finance/)
