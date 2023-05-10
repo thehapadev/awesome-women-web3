@@ -77,6 +77,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Elizabeth, Chainsafe](https://twitter.com/elizabethereum) | [Github](https://github.com/noot)
 - [Holly Grimm, Astral](https://twitter.com/hollygrimm) 
 - [Nina Barbakadze, Mento](https://twitter.com/ninocomputer)
+- [Rene Lubov, Celestia](https://twitter.com/renelubov) | [Website](https://rene.sh/) | [Github](https://github.com/renaynay)
 - [Samantha Ricotta, Interchain](https://twitter.com/killasalmon)
 - [Sanaz Taheri, Celestia](https://twitter.com/sanaz2016) | [Github](https://github.com/staheri14)
 - [Spoorthi, Cosmos](https://twitter.com/spoo_bar) | [Website](https://www.spoorthi.dev/)
