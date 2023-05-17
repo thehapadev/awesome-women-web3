@@ -167,6 +167,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Devin Lewtan](https://twitter.com/DevinLewtan), [Alice Ma](https://twitter.com/alicemama15) | [Mad Realities](https://madrealities.xyz/)
 - [Eleni Steinman](https://twitter.com/EleniThinks) | [LoopCrypto](https://www.loopcrypto.xyz/)
 - [Emily Furlong](https://twitter.com/emthemaker) | [Otterspace](https://www.otterspace.xyz/)
+- [Emma Bates](https://twitter.com/EmmaSHBates) | [Ask Diem](https://app.askdiem.com/)
 - [Esther](https://twitter.com/regencoffeegirl) | [Sunrise Stake](https://app.sunrisestake.com/)
 - [Evin McMullen](https://twitter.com/provenauthority) | [Disco](https://app.disco.xyz/)
 - [Fahima Gibrel](https://twitter.com/feemschats) | [Work on Chain](https://twitter.com/workonchain)
@@ -378,6 +379,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Novia Chao](https://twitter.com/noviachao) | [Portfolio](https://www.noviachao.com/) | [Iris Labs](https://irislabs.framer.website/)
 - [Sasha Tanase](https://twitter.com/sasha_tanase) | [Web3 UX](https://live.web3ux.org/) | [Github](https://github.com/threshold-network/UX-User-Research)
 - [Sneha Sankar](https://twitter.com/snehasanks) | [Portfolio](https://www.snehasanks.com/)
+- [Tricia Wang](https://twitter.com/triciawang) | [Crypto Research and Design Lab](https://www.cradl.org/)
 - [Yana Sosna, ZORA](https://twitter.com/yanasosna) | [Website](https://www.yanasosna.com/)
 - [Yang You, Paradigm](https://twitter.com/_yangyou) | [Portfolio](https://www.yangyou.space/)
 
