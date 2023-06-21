@@ -310,6 +310,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Porter Geer, Dispatch](https://twitter.com/portergeer)
 - [Shannon Wells, Livepeer](https://twitter.com/shanvasion)
 - [Simona Stamatovska, Enzyme](https://twitter.com/_simonasays)
+- [Steph Alinsug, Seed Club](https://twitter.com/cryptohun3y) | [Vessel](https://onvessel.world/)
 - [Zoé Meckbach, Phala Network](https://twitter.com/zoemcfox)
 
 ## Data Wizards 🪄
