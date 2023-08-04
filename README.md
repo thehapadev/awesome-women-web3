@@ -295,6 +295,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## Growth & Ops 
 
 - [Aditi Sriram, Capsule](https://twitter.com/adeets_22) | [Website](https://aditi.is/)
+- [Amanda Cassatt](https://twitter.com/amandacassatt) | [Serotonin](https://www.serotonin.co/) | [Mojito](https://www.getmojito.com/)
 - [Bianca Pham](https://twitter.com/3iancapham) | [Hypermint](https://hypermint.com/)
 - [Camilla McFarland, Mojito](https://twitter.com/camillionaire_m)
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
