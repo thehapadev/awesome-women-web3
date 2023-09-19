@@ -371,7 +371,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jessica Chang, Gallery](https://twitter.com/jchangsta) | [Website](https://jchang.design/)
 - [Jessica Phan, Sound.xyz](https://twitter.com/ohjphan) 
 - [Kahori Razzell, Astar Network](https://twitter.com/kaori_ruku) | [Github](https://github.com/Kahonnohak)
-- [Kai Tran](https://twitter.com/uxdesignerkai) | [Website](https://www.uxdesignerkai.com/)
+- [Kai Tran](https://twitter.com/uxbykai) | [Website](https://www.uxdesignerkai.com/)
 - [Kate Kassab, Alchemy](https://twitter.com/kate_kassab) | [Website](https://www.katekassab.com/)
 - [Kathy, OP Labs](https://twitter.com/pifafu) | [Website](https://www.pifafu.com/)
 - [Katy Jeremko](https://twitter.com/0xKaty) | [IndieDAO](https://www.indiedao.xyz/projects)
