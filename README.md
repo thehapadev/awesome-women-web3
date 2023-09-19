@@ -152,6 +152,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 
 ## Founders of Web3 SaaS, Protocols, Securities, etc. 
 
+- [Adriana Hoppenbrouwer-Pereira](https://twitter.com/AdrianaHoppenb1) | [The Fabricant](https://www.thefabricant.com/)
 - [Amelia Chen](https://twitter.com/ameliatastic/status/1615831532438163461) | [SeaLang (Solana)](https://seahorse-lang.org/)
 - [Amelie Lasker](https://twitter.com/AmelieLasker) | [Alexandria](https://alexandrialabs.xyz/)
 - [Andrea Siegel](https://twitter.com/AndreaSiegel20), [Michelle Reeves](https://twitter.com/Michellejreeves) | [Mavion](https://mavion.world/)
