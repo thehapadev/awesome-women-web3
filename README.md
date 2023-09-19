@@ -355,7 +355,8 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Aaliyah, Apeair Creative](https://twitter.com/ApeairCreative) | [Website](https://apeaircreative.notion.site/apeaircreative/Welcome-to-Apeair-Creative-c50649b24f834c87ae0544f773fac2ab)
-- [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign) 
+- [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign)
+- [Anshu Tukol, thirdweb](https://twitter.com/AnshuTukol) | [Website](https://www.anshutukol.com/)
 - [Bianca Mikaila](https://twitter.com/biancamikaila) | [Website](https://bianca.digital/)
 - [Charlota Blunárová](https://twitter.com/0xcharlota) | [Portfolio](https://www.blunarova.com/) | [We3](https://we3.co/)
 - [Chiali Tsai, Ethereum Foundation](https://twitter.com/Chia_Tea) | [Raid Guild](https://www.raidguild.org/)
