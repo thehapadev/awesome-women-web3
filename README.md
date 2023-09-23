@@ -355,6 +355,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 ## UX Engineers & Designers
 
 - [Aaliyah, Apeair Creative](https://twitter.com/ApeairCreative) | [Website](https://apeaircreative.notion.site/apeaircreative/Welcome-to-Apeair-Creative-c50649b24f834c87ae0544f773fac2ab)
+- [Alana Yolande, Boys Club](https://twitter.com/alanayolande) | [Website](https://www.alanayolande.com/)
 - [Alyssa Ordillano, Poolsuite](https://twitter.com/alysiennedesign)
 - [Anshu Tukol, thirdweb](https://twitter.com/AnshuTukol) | [Website](https://www.anshutukol.com/)
 - [Bianca Mikaila](https://twitter.com/biancamikaila) | [Website](https://bianca.digital/)
