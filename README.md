@@ -301,6 +301,7 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Camilla McFarland, Mojito](https://twitter.com/camillionaire_m)
 - [Christina, AAVE](https://twitter.com/0xChristina) | [Lens](https://www.lensfrens.xyz/christina.lens)
 - [Christina Lomazzo, Shopify](https://twitter.com/crlomazzo)
+- [Ellen Ng](https://twitter.com/HiEllenNg) | [Website](https://www.inoa.ai/)
 - [Feven Mekonenn, SheFi](https://twitter.com/feven206)
 - [Jacy Youn, Overpriced JPEGs](https://twitter.com/hawaiianft)
 - [Lisa Cuesta Bunin, Aztec](https://twitter.com/lisacuesta)
