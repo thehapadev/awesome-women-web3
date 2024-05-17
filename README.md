@@ -53,7 +53,6 @@ This is a collaborative repo, so pass it forward! ‍💫
 - [Jen Gautz, Ensō Collective](https://twitter.com/web3djen) | [Github](https://github.com/jennyg0)
 - [Jennifer Tran](https://twitter.com/JKim_Tran) | [Github](https://github.com/jennifertrin)
 - [Jenny Pollack, AAVE](https://twitter.com/Jenny_Pollack) | [Website](https://jenny.lol/)
-- [Kara Graysen](https://twitter.com/karagraysen) | [Website](https://pigeon.art/)
 - [Kendyl Key, Decentology](https://twitter.com/KendylCodes)
 - [Mary Zou, Mirror](https://twitter.com/cryyram)
 - [Meowy, ConsenSys](https://twitter.com/me256ow) | [Website](https://meowy.arweave.dev/)
